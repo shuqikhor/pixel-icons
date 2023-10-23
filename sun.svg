@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" id="pixelicon-sun">
+	<polygon fill="#FFE800" points="4,0 5,0 5,1 4,1"/>
+	<polygon fill="#FFE800" points="1,1 2,1 2,2 1,2"/>
+	<polygon fill="#FFE800" points="7,1 8,1 8,2 7,2"/>
+	<polygon fill="#FFE800" points="3,2 6,2 6,3 7,3 7,6 6,6 6,7 3,7 3,6 2,6 2,3 3,3"/>
+	<polygon fill="#FFE800" points="0,4 1,4 1,5 0,5"/>
+	<polygon fill="#FFE800" points="8,4 9,4 9,5 8,5"/>
+	<polygon fill="#FFE800" points="1,7 2,7 2,8 1,8"/>
+	<polygon fill="#FFE800" points="7,7 8,7 8,8 7,8"/>
+	<polygon fill="#FFE800" points="4,8 5,8 5,9 4,9"/>
+</svg>

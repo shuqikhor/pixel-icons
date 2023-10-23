@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" id="pixelicon-house">
+	<polygon fill="#F92F3C" points="4,1 5,1 5,2 4,2"/>
+	<polygon fill="#F92F3C" points="3,2 4,2 4,3 3,3"/>
+	<polygon fill="#F92F3C" points="5,2 6,2 6,3 5,3"/>
+	<polygon fill="#F92F3C" points="2,3 3,3 3,4 2,4"/>
+	<polygon fill="#F92F3C" points="6,3 7,3 7,4 6,4"/>
+	<polygon fill="#F92F3C" points="1,4 2,4 2,5 1,5"/>
+	<polygon fill="#F92F3C" points="7,4 8,4 8,5 7,5"/>
+	<polygon fill="#FFFBD4" points="4,2 5,2 5,3 6,3 6,4 7,4 7,8 6,8 6,5 3,5 3,8 2,8 2,4 3,4 3,3 4,3"/>
+	<polygon fill="#D38100" points="3,5 6,5 6,8 3,8"/>
+</svg>

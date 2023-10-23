@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" id="pixelicon-zoom-out">
+	<polygon fill="#D38100" points="3,1 6,1 6,2 7,2 7,3 5,3 5,2 3,2"/>
+	<polygon fill="#D38100" points="2,2 3,2 3,3 2,3"/>
+	<polygon fill="#D38100" points="1,3 2,3 2,6 1,6"/>
+	<polygon fill="#D38100" points="7,3 8,3 8,6 7,6"/>
+	<polygon fill="#D38100" points="2,6 3,6 3,7 2,7"/>
+	<polygon fill="#D38100" points="6,6 7,6 7,7 6,7"/>
+	<polygon fill="#D38100" points="3,7 6,7 6,8 3,8"/>
+	<path fill="#FFFFFF" fill-rule="evenodd" d="M3,2H6V3H7V6H6V7H3V6H2V3H3z M3,4H6V5H3z"/>
+	<polygon fill="#89CDFF" points="3,4 6,4 6,5 3,5"/>
+	<polygon fill="#FFB100" points="7,7 8,7 8,8 7,8"/>
+	<polygon fill="#FFB100" points="8,8 9,8 9,9 8,9"/>
+</svg>
