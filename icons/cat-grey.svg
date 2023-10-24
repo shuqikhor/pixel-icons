@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" id="pixelicon-cat-grey">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-cat-grey">
 	<rect fill="#A1A0B4" x="1" y="1" width="1" height="1"/>
 	<rect fill="#A1A0B4" x="7" y="1" width="1" height="1"/>
 	<polygon fill="#A1A0B4" points="3,2 2,2 2,4 1,4 1,7.1 2,7.1 2,5 4,5 4,4 3,4"/>
