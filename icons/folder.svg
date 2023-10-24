@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-folder-small">
+	<rect fill="#FFB100" x="1" y="3" width="1" height="1"/>
+	<rect fill="#FFB100" x="2" y="2" width="2" height="1"/>
+	<rect fill="#FFB100" x="4" y="3" width="4" height="1"/>
+	<polygon fill="#FFE800" points="4,4 4,3 2,3 2,4 1,4 1,8 8,8 8,4"/>
+</svg>

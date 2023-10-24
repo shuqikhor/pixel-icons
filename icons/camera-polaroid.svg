@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-camera-polaroid">
+	<path fill="#E5E3D1" d="M0,1v4h3V2h3v3h3V1H0z M2,4H1V3h1V4z M8,4H7V3h1V4z"/>
+	<rect fill="#FFFCE8" x="0" y="5" width="3" height="1"/>
+	<rect fill="#FFFCE8" x="6" y="5" width="3" height="1"/>
+	<rect fill="#343341" x="1" y="6" width="7" height="1"/>
+	<polygon fill="#E5E3D1" points="8,6 8,7 1,7 1,6 0,6 0,8 9,8 9,6"/>
+	<rect fill="#F92F3C" x="1" y="3" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="7" y="3" width="1" height="1"/>
+	<path fill="#343341" d="M3,2v3h3V2H3z M5,4H4V3h1V4z"/>
+	<rect fill="#6F6D81" x="4" y="3" width="1" height="1"/>
+	<rect fill="#F92F3C" x="3" y="5" width="1" height="1"/>
+	<rect fill="#FFE800" x="4" y="5" width="1" height="1"/>
+	<rect fill="#89CDFF" x="5" y="5" width="1" height="1"/>
+</svg>
