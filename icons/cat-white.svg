@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-cat-white">
 	<rect fill="#ECEBF7" x="1" y="1" width="1" height="1"/>
 	<rect fill="#ECEBF7" x="7" y="1" width="1" height="1"/>
-	<path fill="#ECEBF7" d="M7,3V2H6v1H3V2H2v1H1v4.1h1V8h5V7.1h1V3H7z M3,6H2V5h1V6z M5,7H4V6h1V7z M7,6H6V5h1V6z"/>
+	<path fill="#ECEBF7" d="M7,3V2H6v1H3V2H2v1H1v4h1v1h5V7h1V3H7z M3,6H2V5h1V6z M5,7H4V6h1V7z M7,6H6V5h1V6z"/>
 	<rect fill="#FFAEB0" x="1" y="2" width="1" height="1"/>
 	<rect fill="#FFAEB0" x="7" y="2" width="1" height="1"/>
 	<rect fill="#343340" x="2" y="5" width="1" height="1"/>

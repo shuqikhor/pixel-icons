@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-cat-tabby">
-	<path fill="#FFB100" d="M7,4V2H6v1v1H5V3H4v1H3V3V2H2v2H1v3.1h1V8h5V7.1h1V4H7z M3,6H2V5h1V6z M5,7H4V6h1V7z M7,6H6V5h1V6z"/>
+	<path fill="#FFB100" d="M7,4V2H6v1v1H5V3H4v1H3V3V2H2v2H1v3h1V8h5V7h1V4H7z M3,6H2V5h1V6z M5,7H4V6h1V7z M7,6H6V5h1V6z"/>
 	<rect fill="#FFB100" x="1" y="1" width="1" height="1"/>
 	<rect fill="#FFB100" x="7" y="1" width="1" height="1"/>
 	<rect fill="#D38100" x="1" y="2" width="1" height="2"/>
