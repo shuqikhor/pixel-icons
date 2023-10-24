@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-calendar">
+	<rect fill="#EBEAF7" x="1" y="4" width="7" height="4"/>
+	<polygon fill="#F92F3C" points="7,2 7,3 6,3 6,2 3,2 3,3 2,3 2,2 1,2 1,4 8,4 8,2 "/>
+	<rect fill="#6F6D81" x="2" y="1" width="1" height="2"/>
+	<rect fill="#6F6D81" x="6" y="1" width="1" height="2"/>
+</svg>

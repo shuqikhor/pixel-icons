@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-camera">
+	<rect fill="#FFFFFF" x="3" y="4" width="1" height="1"/>
+	<rect fill="#A1A0B4" x="3" y="2" width="3" height="1"/>
+	<rect fill="#A1A0B4" x="0" y="3" width="3" height="1"/>
+	<rect fill="#A1A0B4" x="6" y="3" width="3" height="1"/>
+	<rect fill="#A1A0B4" x="0" y="7" width="3" height="1"/>
+	<rect fill="#A1A0B4" x="6" y="7" width="3" height="1"/>
+	<rect fill="#EBEAF7" x="0" y="4" width="2" height="3"/>
+	<rect fill="#EBEAF7" x="7" y="4" width="2" height="3"/>
+	<polygon fill="#EBEAF7" points="4,4 4,5 3,5 3,7 6,7 6,4"/>
+	<rect fill="#343341" x="3" y="3" width="3" height="1"/>
+	<rect fill="#343341" x="6" y="4" width="1" height="3"/>
+	<rect fill="#343341" x="3" y="7" width="3" height="1"/>
+	<rect fill="#343341" x="2" y="4" width="1" height="3"/>
+	<rect fill="#343341" x="7" y="2" width="1" height="1"/>
+</svg>
