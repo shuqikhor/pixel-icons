@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" id="pixelicon-dog-shiba">
+	<path fill="#FFB100" d="M7,4V3H6V2H5v1H4V2H3v1H2v1H1v3h2V6h3v1h2V4H7z M4,5H3V4h1V5z M6,5H5V4h1V5z"/>
+	<rect fill="#343341" x="3" y="4" width="1" height="1"/>
+	<rect fill="#343341" x="5" y="4" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="6" width="1" height="1"/>
+	<rect fill="#FFB100" x="2" y="1" width="1" height="1"/>
+	<rect fill="#FFB100" x="6" y="1" width="1" height="1"/>
+	<rect fill="#FFCF52" x="2" y="2" width="1" height="1"/>
+	<rect fill="#FFCF52" x="6" y="2" width="1" height="1"/>
+	<polygon fill="#EBEAF7" points="6,7 6,6 5,6 5,7 4,7 4,6 3,6 3,7 2,7 2,8 7,8 7,7"/>
+</svg>
