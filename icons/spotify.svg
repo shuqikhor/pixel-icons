@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-spotify">
+	<rect fill="#73E030" x="3" y="1" width="3" height="1"/>
+	<rect fill="#73E030" x="6" y="2" width="1" height="1"/>
+	<path fill="#73E030" d="M7,3v1H6V3H1v3h3v1H3v1h3V7h1V6h1V3H7z M6,6H5V5H2V4h3v1h1V6z"/>
+	<rect fill="#343341" x="2" y="6" width="2" height="1"/>
+	<rect fill="#343341" x="5" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="3" width="1" height="1"/>
+	<rect fill="#343341" x="2" y="2" width="4" height="1"/>
+	<rect fill="#343341" x="2" y="4" width="3" height="1"/>
+</svg>

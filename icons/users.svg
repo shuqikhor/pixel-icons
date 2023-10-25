@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-users">
+	<polygon fill="#FFE4C2" points="0,4 0,6 1,6 1,7 2,7 2,4"/>
+	<polygon fill="#FFE4C2" points="6,4 6,2 3,2 3,5 4,5 4,6 5,6 5,5 6,5 6,6 7,6 7,7 8,7 8,4"/>
+	<polygon fill="#D38100" points="0,3 0,4 2,4 2,5 3,5 3,3"/>
+	<polygon fill="#D38100" points="7,3 7,4 8,4 8,5 9,5 9,3"/>
+	<rect fill="#FFE800" x="0" y="7" width="2" height="2"/>
+	<rect fill="#89CDFF" x="2" y="6" width="5" height="3"/>
+	<rect fill="#F92F3C" x="7" y="7" width="2" height="2"/>
+	<rect fill="#343341" x="3" y="1" width="3" height="1"/>
+	<rect fill="#343341" x="6" y="2" width="1" height="2"/>
+</svg>
