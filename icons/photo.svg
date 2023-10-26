@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-photo">
+	<path fill="#EBEAF7" d="M1,0v8h7V0H1z M7,6H2V1h5V6z"/>
+	<path fill="#89CDFF" d="M2,1v3h2v1h1V4h1V3h1V1H2z M4,3H3V2h1V3z"/>
+	<rect fill="#FFE800" x="3" y="2" width="1" height="1"/>
+	<polygon fill="#00AF3E" points="6,3 6,4 5,4 5,5 4,5 4,4 2,4 2,6 7,6 7,3"/>
+</svg>
