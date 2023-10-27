@@ -36,12 +36,14 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
+| <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/smartphone.svg"> | smartphone.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
+| <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
 
 ## Brand Logos
