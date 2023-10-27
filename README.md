@@ -9,7 +9,9 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | Image | File Name |
 |-------|-----------|
 | <img width="45" height="45" src="icons/apple.svg"> | apple.svg |
+| <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
 | <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
+| <img width="45" height="45" src="icons/book.svg"> | book.svg |
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
 | <img width="45" height="45" src="icons/burger-menu.svg"> | burger-menu.svg |
 | <img width="45" height="45" src="icons/burger.svg"> | burger.svg |
@@ -38,6 +40,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
+| <img width="45" height="45" src="icons/phone.svg"> | phone.svg |
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
