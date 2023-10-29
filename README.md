@@ -59,15 +59,17 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 |-------|-----------|
 | <img width="45" height="45" src="icons/apple-logo.svg"> | apple-logo.svg |
 | <img width="45" height="45" src="icons/chrome.svg"> | chrome.svg |
-| <img width="45" height="45" src="icons/facebook-detailed.svg"> | facebook-detailed.svg |
 | <img width="45" height="45" src="icons/facebook.svg"> | facebook.svg |
-| <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
+| <img width="45" height="45" src="icons/facebook-detailed.svg"> | facebook-detailed.svg |
 | <img width="45" height="45" src="icons/instagram.svg"> | instagram.svg |
+| <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
+| <img width="45" height="45" src="icons/reddit.svg"> | reddit.svg |
+| <img width="45" height="45" src="icons/reddit-detailed.svg"> | reddit-detailed.svg |
 | <img width="45" height="45" src="icons/spotify.svg"> | spotify.svg |
 | <img width="45" height="45" src="icons/tiktok.svg"> | tiktok.svg |
-| <img width="45" height="45" src="icons/twitter-detailed.svg"> | twitter-detailed.svg |
 | <img width="45" height="45" src="icons/x.svg"> | x.svg |
 | <img width="45" height="45" src="icons/twitter.svg"> | twitter.svg |
+| <img width="45" height="45" src="icons/twitter-detailed.svg"> | twitter-detailed.svg |
 | <img width="45" height="45" src="icons/youtube.svg"> | youtube.svg |
 
 ## UI
