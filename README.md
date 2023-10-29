@@ -10,6 +10,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 |-------|-----------|
 | <img width="45" height="45" src="icons/apple.svg"> | apple.svg |
 | <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
+| <img width="45" height="45" src="icons/basket.svg"> | basket.svg |
 | <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
 | <img width="45" height="45" src="icons/book.svg"> | book.svg |
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
@@ -41,6 +42,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
+| <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
 | <img width="45" height="45" src="icons/phone.svg"> | phone.svg |
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
@@ -94,15 +96,22 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/battery-4-6.svg"> | battery-4-6.svg |
 | <img width="45" height="45" src="icons/battery-5-6.svg"> | battery-5-6.svg |
 | <img width="45" height="45" src="icons/battery-6-6.svg"> | battery-6-6.svg |
+| <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
+| <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
+| <img width="45" height="45" src="icons/copy.svg"> | copy.svg |
 | <img width="45" height="45" src="icons/file-picture.svg"> | file-picture.svg |
 | <img width="45" height="45" src="icons/file-text.svg"> | file-text.svg |
 | <img width="45" height="45" src="icons/file.svg"> | file.svg |
 | <img width="45" height="45" src="icons/folder.svg"> | folder.svg |
+| <img width="45" height="45" src="icons/lock.svg"> | lock.svg |
 | <img width="45" height="45" src="icons/gear.svg"> | gear.svg |
+| <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
+| <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
 | <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |
 | <img width="45" height="45" src="icons/sound-mute.svg"> | sound-mute.svg |
+| <img width="45" height="45" src="icons/unlock.svg"> | unlock.svg |
 | <img width="45" height="45" src="icons/user.svg"> | user.svg |
 | <img width="45" height="45" src="icons/users.svg"> | users.svg |
 | <img width="45" height="45" src="icons/wifi.svg"> | wifi.svg |
