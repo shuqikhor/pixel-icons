@@ -29,12 +29,14 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/cat-tabby.svg"> | cat-tabby.svg |
 | <img width="45" height="45" src="icons/cat-white.svg"> | cat-white.svg |
 | <img width="45" height="45" src="icons/chart.svg"> | chart.svg |
+| <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
 | <img width="45" height="45" src="icons/dog-beagle.svg"> | dog-beagle.svg |
 | <img width="45" height="45" src="icons/dog-shiba.svg"> | dog-shiba.svg |
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
+| <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
 | <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
@@ -106,6 +108,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/folder.svg"> | folder.svg |
 | <img width="45" height="45" src="icons/lock.svg"> | lock.svg |
 | <img width="45" height="45" src="icons/gear.svg"> | gear.svg |
+| <img width="45" height="45" src="icons/magnifier.svg"> | magnifier.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
