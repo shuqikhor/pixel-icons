@@ -121,6 +121,8 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
 | <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |
 | <img width="45" height="45" src="icons/sound-mute.svg"> | sound-mute.svg |
+| <img width="45" height="45" src="icons/thumb-up.svg"> | thumb-up.svg |
+| <img width="45" height="45" src="icons/thumb-down.svg"> | thumb-down.svg |
 | <img width="45" height="45" src="icons/unlock.svg"> | unlock.svg |
 | <img width="45" height="45" src="icons/user.svg"> | user.svg |
 | <img width="45" height="45" src="icons/users.svg"> | users.svg |
