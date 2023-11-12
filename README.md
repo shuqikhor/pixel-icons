@@ -20,6 +20,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/calendar.svg"> | calendar.svg |
 | <img width="45" height="45" src="icons/camera-polaroid.svg"> | camera-polaroid.svg |
 | <img width="45" height="45" src="icons/camera.svg"> | camera.svg |
+| <img width="45" height="45" src="icons/candycane.svg"> | candycane.svg |
 | <img width="45" height="45" src="icons/car.svg"> | car.svg |
 | <img width="45" height="45" src="icons/cart.svg"> | cart.svg |
 | <img width="45" height="45" src="icons/cat-black.svg"> | cat-black.svg |
@@ -37,11 +38,13 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
+| <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
 | <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
 | <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
+| <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
@@ -50,11 +53,14 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
-| <img width="45" height="45" src="icons/save.svg"> | save.svg |
+| <img width="45" height="45" src="icons/pumpkin.svg"> | pumpkin.svg |
+| <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
+| <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
 | <img width="45" height="45" src="icons/smartphone.svg"> | smartphone.svg |
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
+| <img width="45" height="45" src="icons/xmas-socks.svg"> | xmas-socks.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
 
 ## Brand Logos
@@ -110,6 +116,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/gear.svg"> | gear.svg |
 | <img width="45" height="45" src="icons/magnifier.svg"> | magnifier.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
+| <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
 | <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |

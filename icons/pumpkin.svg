@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-pumpkin">
+	<path fill="#FFB100" d="M7,4V3H5v1H4V3H2v1H1v3h1v0v1v0h5V7h1V4H7z M2,5h1v1H2V5z M6,7H4V6h2V7z M7,6H6V5h1V6z"/>
+	<rect fill="#00AF3E" x="4" y="2" width="1" height="2"/>
+	<rect fill="#00AF3E" x="5" y="1" width="1" height="1"/>
+	<rect fill="#343341" x="2" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="6" width="2" height="1"/>
+</svg>

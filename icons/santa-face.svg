@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-santa-face">
+	<rect fill="#FFE4C2" x="4" y="5" width="1" height="1"/>
+	<polygon fill="#F92F3C" points="7,2 7,1 3,1 3,2 2,2 2,4 7,4 7,3 8,3 8,2 "/>
+	<rect fill="#EBEAF7" x="7" y="3" width="1" height="1"/>
+	<rect fill="#EBEAF7" x="2" y="4" width="5" height="1"/>
+	<polygon fill="#EBEAF7" points="7,6 2,6 2,7 3,7 3,8 6,8 6,7 7,7 "/>
+	<rect fill="#FFE4C2" x="2" y="5" width="1" height="1"/>
+	<rect fill="#FFE4C2" x="4" y="5" width="1" height="1"/>
+	<rect fill="#FFE4C2" x="6" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="5" y="5" width="1" height="1"/>
+</svg>
