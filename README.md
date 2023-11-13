@@ -23,6 +23,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/candycane.svg"> | candycane.svg |
 | <img width="45" height="45" src="icons/car.svg"> | car.svg |
 | <img width="45" height="45" src="icons/cart.svg"> | cart.svg |
+| <img width="45" height="45" src="icons/cat.svg"> | cat.svg |
 | <img width="45" height="45" src="icons/cat-black.svg"> | cat-black.svg |
 | <img width="45" height="45" src="icons/cat-calico.svg"> | cat-calico.svg |
 | <img width="45" height="45" src="icons/cat-grey.svg"> | cat-grey.svg |
