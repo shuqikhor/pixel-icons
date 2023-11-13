@@ -46,6 +46,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
+| <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
