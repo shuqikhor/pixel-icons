@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-dog">
+	<path fill="#D38100" d="M7,5V4H6v2H5V3H1v1h1v1H1V4H0v2h2v2h1V7h1v1h1V7h2v1h1V5H7z M3,4h1v1H3V4z"/>
+	<rect fill="#D38100" x="8" y="3" width="1" height="2"/>
+	<rect fill="#9C5F00" x="5" y="3" width="1" height="3"/>
+	<rect fill="#343341" x="1" y="4" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="4" width="1" height="1"/>
+</svg>

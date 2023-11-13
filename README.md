@@ -35,6 +35,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
+| <img width="45" height="45" src="icons/dog.svg"> | dog.svg |
 | <img width="45" height="45" src="icons/dog-beagle.svg"> | dog-beagle.svg |
 | <img width="45" height="45" src="icons/dog-shiba.svg"> | dog-shiba.svg |
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
