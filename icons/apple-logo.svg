@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-apple-logo">
-	<rect x="5" y="0" fill="#343340" width="1" height="1"/>
-	<rect x="4" y="1" fill="#343340" width="1" height="1"/>
+	<rect fill="#343340" x="5" y="0" width="1" height="1"/>
+	<rect fill="#343340" x="4" y="1" width="1" height="1"/>
 	<polygon fill="#343340" points="7,5 8,5 8,4 7,4 7,3 5,3 5,4 4,4 4,3 2,3 2,4 1,4 1,8 2,8 2,9 4,9 4,8 5,8 5,9 7,9 7,8 8,8 8,7 7,7"/>
 </svg>

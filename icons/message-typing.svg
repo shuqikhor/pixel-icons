@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-message-typing">
 	<path fill="#D0EAFF" d="M8,1H1v5h1v2h1V7h1V6h4V1z M2,3h1v1H2V3z M5,4H4V3h1V4z M7,4H6V3h1V4z"/>
-	<rect x="2" y="3" fill="#FFFFFF" width="1" height="1"/>
-	<rect x="4" y="3" fill="#FFFFFF" width="1" height="1"/>
-	<rect x="6" y="3" fill="#FFFFFF" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="2" y="3" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="4" y="3" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="6" y="3" width="1" height="1"/>
 </svg>
