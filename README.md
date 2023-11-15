@@ -120,6 +120,7 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
 | <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
 | <img width="45" height="45" src="icons/copy.svg"> | copy.svg |
+| <img width="45" height="45" src="icons/edit.svg"> | edit.svg |
 | <img width="45" height="45" src="icons/export.svg"> | export.svg |
 | <img width="45" height="45" src="icons/file-picture.svg"> | file-picture.svg |
 | <img width="45" height="45" src="icons/file-text.svg"> | file-text.svg |
