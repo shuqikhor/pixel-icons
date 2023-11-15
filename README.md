@@ -128,6 +128,9 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 | <img width="45" height="45" src="icons/magnifier.svg"> | magnifier.svg |
 | <img width="45" height="45" src="icons/mail.svg"> | mail.svg |
 | <img width="45" height="45" src="icons/mail-open.svg"> | mail-open.svg |
+| <img width="45" height="45" src="icons/message.svg"> | message.svg |
+| <img width="45" height="45" src="icons/message-typing.svg"> | message-typing.svg |
+| <img width="45" height="45" src="icons/messages.svg"> | messages.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
