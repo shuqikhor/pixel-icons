@@ -2,6 +2,8 @@
 
 This is a set of icons I made for fun. Feel free to use them as you please.
 
+You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.com/pixel-icons).
+
 <img title="Icon preview" alt="Icon preview" src="preview.png" width="715">
 
 ## Objects
