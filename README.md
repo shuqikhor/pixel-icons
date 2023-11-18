@@ -142,6 +142,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/message-typing.svg"> | message-typing.svg |
 | <img width="45" height="45" src="icons/messages.svg"> | messages.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
+| <img width="45" height="45" src="icons/printer.svg"> | printer.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |

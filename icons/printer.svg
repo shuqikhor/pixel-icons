@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-printer">
+	<polygon fill="#EBEAF7" points="0,2 0,6 2,6 2,5 1,5 1,4 8,4 8,5 7,5 7,6 9,6 9,2"/>
+	<rect fill="#A1A0B4" x="2" y="0" width="5" height="2"/>
+	<rect fill="#343341" x="1" y="4" width="1" height="1"/>
+	<rect fill="#343341" x="7" y="4" width="1" height="1"/>
+	<path fill="#D0EAFF" d="M2,4v3v2h3V8H3V7h4V4H2z M6,6H3V5h3V6z"/>
+	<polygon fill="#89CDFF" points="5,7 5,9 6,9 6,8 7,8 7,7"/>
+	<rect fill="#6F6D81" x="3" y="5" width="3" height="1"/>
+	<rect fill="#6F6D81" x="3" y="7" width="2" height="1"/>
+</svg>
