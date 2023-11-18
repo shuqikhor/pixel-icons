@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-tehtarik">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-teh-tarik">
 	<rect fill="#EBEAF7" x="2" y="1" width="5" height="1"/>
-	<rect fill="#EBEAF7" x="7" y="2" width="1" height="1"/>
-	<rect fill="#EBEAF7" x="8" y="3" width="1" height="3"/>
+	<polygon fill="#EBEAF7" points="7,3 7,4 8,4 8,6 9,6 9,3"/>
 	<rect fill="#EBEAF7" x="7" y="6" width="1" height="1"/>
 	<polygon fill="#D38100" points="7,4 2,4 2,7 3,7 3,8 6,8 6,7 7,7"/>
 	<rect fill="#FFFBD4" x="2" y="2" width="5" height="2"/>
