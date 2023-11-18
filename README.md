@@ -72,6 +72,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
 | <img width="45" height="45" src="icons/rabbit-grey.svg"> | rabbit-grey.svg |
 | <img width="45" height="45" src="icons/rabbit-white.svg"> | rabbit-white.svg |
+| <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
