@@ -14,6 +14,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
 | <img width="45" height="45" src="icons/basket.svg"> | basket.svg |
 | <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
+| <img width="45" height="45" src="icons/birthday-cake.svg"> | birthday-cake.svg |
 | <img width="45" height="45" src="icons/book.svg"> | book.svg |
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
 | <img width="45" height="45" src="icons/burger-menu.svg"> | burger-menu.svg |
@@ -74,7 +75,9 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
+| <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
+| <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
 | <img width="45" height="45" src="icons/xmas-socks.svg"> | xmas-socks.svg |
