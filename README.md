@@ -55,6 +55,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
 | <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
+| <img width="45" height="45" src="icons/luggage.svg"> | luggage.svg |
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
 | <img width="45" height="45" src="icons/mailbox.svg"> | mailbox.svg |
 | <img width="45" height="45" src="icons/mallard.svg"> | mallard.svg |
@@ -68,6 +69,8 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
+| <img width="45" height="45" src="icons/pizza-slice.svg"> | pizza-slice.svg |
+| <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
 | <img width="45" height="45" src="icons/plane.svg"> | plane.svg |
 | <img width="45" height="45" src="icons/pumpkin.svg"> | pumpkin.svg |
 | <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
