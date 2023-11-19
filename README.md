@@ -48,6 +48,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
 | <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
+| <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
 | <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
@@ -80,6 +81,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
+| <img width="45" height="45" src="icons/shop.svg"> | shop.svg |
 | <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
 | <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
