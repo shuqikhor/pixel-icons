@@ -66,6 +66,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
 | <img width="45" height="45" src="icons/pencil.svg"> | pencil.svg |
+| <img width="45" height="45" src="icons/penguin.svg"> | penguin.svg |
 | <img width="45" height="45" src="icons/phone.svg"> | phone.svg |
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
