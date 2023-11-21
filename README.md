@@ -60,11 +60,14 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
 | <img width="45" height="45" src="icons/luggage.svg"> | luggage.svg |
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
+| <img width="45" height="45" src="icons/koala.svg"> | koala.svg |
+| <img width="45" height="45" src="icons/koala-tree.svg"> | koala-tree.svg |
 | <img width="45" height="45" src="icons/mailbox.svg"> | mailbox.svg |
 | <img width="45" height="45" src="icons/mallard.svg"> | mallard.svg |
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
+| <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
 | <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
@@ -135,6 +138,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/battery-4-6.svg"> | battery-4-6.svg |
 | <img width="45" height="45" src="icons/battery-5-6.svg"> | battery-5-6.svg |
 | <img width="45" height="45" src="icons/battery-6-6.svg"> | battery-6-6.svg |
+| <img width="45" height="45" src="icons/bear.svg"> | bear.svg |
 | <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
 | <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
