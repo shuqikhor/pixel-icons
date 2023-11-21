@@ -36,6 +36,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/cat-orange.svg"> | cat-orange.svg |
 | <img width="45" height="45" src="icons/cat-tabby.svg"> | cat-tabby.svg |
 | <img width="45" height="45" src="icons/cat-white.svg"> | cat-white.svg |
+| <img width="45" height="45" src="icons/charmander.svg"> | charmander.svg |
 | <img width="45" height="45" src="icons/chart.svg"> | chart.svg |
 | <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
@@ -76,6 +77,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/phone.svg"> | phone.svg |
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
+| <img width="45" height="45" src="icons/pikachu.svg"> | pikachu.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
 | <img width="45" height="45" src="icons/pizza-slice.svg"> | pizza-slice.svg |
 | <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
