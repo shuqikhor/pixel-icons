@@ -25,6 +25,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/camera-polaroid.svg"> | camera-polaroid.svg |
 | <img width="45" height="45" src="icons/camera.svg"> | camera.svg |
 | <img width="45" height="45" src="icons/candycane.svg"> | candycane.svg |
+| <img width="45" height="45" src="icons/capybara.svg"> | capybara.svg |
 | <img width="45" height="45" src="icons/car.svg"> | car.svg |
 | <img width="45" height="45" src="icons/cart.svg"> | cart.svg |
 | <img width="45" height="45" src="icons/cat.svg"> | cat.svg |
@@ -48,6 +49,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
 | <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
+| <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
@@ -63,6 +65,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
+| <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
 | <img width="45" height="45" src="icons/pencil.svg"> | pencil.svg |
