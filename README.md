@@ -68,7 +68,6 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
-| <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
 | <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
@@ -117,6 +116,15 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/twitter.svg"> | twitter.svg |
 | <img width="45" height="45" src="icons/twitter-detailed.svg"> | twitter-detailed.svg |
 | <img width="45" height="45" src="icons/youtube.svg"> | youtube.svg |
+
+## Memes
+
+| Image | File Name |
+|-------|-----------|
+| <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
+| <img width="45" height="45" src="icons/sad-pepe.svg"> | sad-pepe.svg |
+| <img width="45" height="45" src="icons/surprised-pikachu.svg"> | surprised-pikachu.svg |
+| <img width="45" height="45" src="icons/this-is-fine.svg"> | this-is-fine.svg |
 
 ## UI
 
