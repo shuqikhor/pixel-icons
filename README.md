@@ -123,7 +123,9 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 |-------|-----------|
 | <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
 | <img width="45" height="45" src="icons/sad-pepe.svg"> | sad-pepe.svg |
+| <img width="45" height="45" src="icons/stonk.svg"> | stonk.svg |
 | <img width="45" height="45" src="icons/surprised-pikachu.svg"> | surprised-pikachu.svg |
+| <img width="45" height="45" src="icons/take-my-money.svg"> | take-my-money.svg |
 | <img width="45" height="45" src="icons/this-is-fine.svg"> | this-is-fine.svg |
 
 ## UI
