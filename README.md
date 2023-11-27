@@ -41,6 +41,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
+| <img width="45" height="45" src="icons/cow.svg"> | cow.svg |
 | <img width="45" height="45" src="icons/device-computer.svg"> | device-computer.svg |
 | <img width="45" height="45" src="icons/device-smartphone.svg"> | device-smartphone.svg |
 | <img width="45" height="45" src="icons/device-tablet.svg"> | device-tablet.svg |
@@ -51,6 +52,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
+| <img width="45" height="45" src="icons/eevee.svg"> | eevee.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
@@ -97,6 +99,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
 | <img width="45" height="45" src="icons/xmas-socks.svg"> | xmas-socks.svg |
+| <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
 
 ## Brand Logos
@@ -176,6 +179,9 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/printer.svg"> | printer.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
+| <img width="45" height="45" src="icons/star.svg"> | star.svg |
+| <img width="45" height="45" src="icons/star-half.svg"> | star-half.svg |
+| <img width="45" height="45" src="icons/star-empty.svg"> | star-empty.svg |
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
 | <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |
 | <img width="45" height="45" src="icons/sound-mute.svg"> | sound-mute.svg |
