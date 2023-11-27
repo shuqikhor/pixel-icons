@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-squirtle">
+	<rect fill="#343341" x="4" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="2" y="2" width="1" height="1"/>
+	<polygon fill="#FFE4C2" points="5,5 5,4 2,4 2,7 5,7 5,6 4,6 4,5"/>
+	<polygon fill="#C10015" points="6,3 6,4 5,4 5,7 6,7 6,6 7,6 7,3"/>
+	<polygon fill="#89CDFF" points="6,4 6,2 5,2 5,3 4,3 4,2 5,2 5,1 2,1 2,2 3,2 3,3 2,3 2,2 1,2 1,4"/>
+	<rect fill="#89CDFF" x="4" y="5" width="1" height="1"/>
+	<polygon fill="#89CDFF" points="7,5 7,6 6,6 6,7 8,7 8,5"/>
+	<rect fill="#89CDFF" x="1" y="5" width="1" height="1"/>
+	<rect fill="#89CDFF" x="5" y="7" width="1" height="1"/>
+	<rect fill="#89CDFF" x="2" y="7" width="1" height="1"/>
+</svg>
