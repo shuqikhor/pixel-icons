@@ -134,6 +134,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | Image | File Name |
 |-------|-----------|
 | <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
+| <img width="45" height="45" src="icons/rickroll.svg"> | rickroll.svg |
 | <img width="45" height="45" src="icons/sad-pepe.svg"> | sad-pepe.svg |
 | <img width="45" height="45" src="icons/stonks.svg"> | stonks.svg |
 | <img width="45" height="45" src="icons/surprised-pikachu.svg"> | surprised-pikachu.svg |
