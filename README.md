@@ -99,6 +99,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/xmas-socks.svg"> | xmas-socks.svg |
 | <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
+| <img width="45" height="45" src="icons/wreath.svg"> | wreath.svg |
 
 ## Brand Logos
 
@@ -167,6 +168,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
 | <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
+| <img width="45" height="45" src="icons/control-panel.svg"> | control-panel.svg |
 | <img width="45" height="45" src="icons/copy.svg"> | copy.svg |
 | <img width="45" height="45" src="icons/edit.svg"> | edit.svg |
 | <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
