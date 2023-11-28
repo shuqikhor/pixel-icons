@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-eevee">
-	<path fill="#D38100" d="M5,5V2H2V1H1v1H0v3H5 M1,4V3h1v1H1 M3,4V3h1v1H3"/>
+	<rect fill="#343341" x="1" y="3" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="3" width="1" height="1"/>
+	<polygon fill="#FFE4C2" points="5,5 1,5 1,6 2,6 2,7 5,7 5,6 6,6 6,3 5,3"/>
+	<rect fill="#FFE4C2" x="8" y="2" width="1" height="1"/>
 	<rect fill="#D38100" x="2" width="1" height="1"/>
 	<rect fill="#D38100" x="5" y="1" width="1" height="1"/>
 	<rect fill="#D38100" x="6" width="1" height="1"/>
-	<rect fill="#D38100" x="2" y="7" width="1" height="1"/>
-	<rect fill="#D38100" x="4" y="7" width="1" height="1"/>
+	<path fill="#D38100" d="M5,5V2H2V1H1v1H0v3H5z M1,4V3h1v1H1z M3,4V3h1v1H3z"/>
 	<polygon fill="#D38100" points="7,3 7,4 6,4 6,6 5,6 5,7 6,7 6,8 7,8 7,6 8,6 8,5 9,5 9,3"/>
-	<polygon fill="#FFE4C2" points="5,5 1,5 1,6 2,6 2,7 5,7 5,6 6,6 6,3 5,3"/>
-	<rect fill="#FFE4C2" x="8" y="2" width="1" height="1"/>
-	<rect fill="#343341" x="1" y="3" width="1" height="1"/>
-	<rect fill="#343341" x="3" y="3" width="1" height="1"/>
+	<rect fill="#D38100" x="4" y="7" width="1" height="1"/>
+	<rect fill="#D38100" x="2" y="7" width="1" height="1"/>
 </svg>
