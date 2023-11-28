@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-elephant">
+	<polygon fill="#6F6D81" points="8,5 8,4 6,4 6,5 5,5 5,6 4,6 4,8 5,8 5,7 6,7 6,8 7,8 7,7 8,7 8,8 9,8 9,5"/>
+	<path fill="#A1A0B4" d="M6,2V1H4v1H3V1H1v1H0v2h1v1h2v1h1V5h2V4h1V2H6z M2,4V3h1v1H2z M4,4V3h1v1H4z"/>
+	<rect fill="#A1A0B4" x="2" y="6" width="1" height="1"/>
+	<rect fill="#343341" x="2" y="3" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="3" width="1" height="1"/>
+	<rect fill="#FFFBD4" x="2" y="5" width="1" height="1"/>
+	<rect fill="#FFFBD4" x="4" y="5" width="1" height="1"/>
+</svg>
