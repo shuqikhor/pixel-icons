@@ -97,7 +97,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
-| <img width="45" height="45" src="icons/xmas-socks.svg"> | xmas-socks.svg |
+| <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
 | <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
 | <img width="45" height="45" src="icons/wreath.svg"> | wreath.svg |
