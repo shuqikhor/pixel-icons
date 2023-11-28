@@ -77,6 +77,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/phone.svg"> | phone.svg |
 | <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
+| <img width="45" height="45" src="icons/pig.svg"> | pig.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
 | <img width="45" height="45" src="icons/pizza-slice.svg"> | pizza-slice.svg |
 | <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
