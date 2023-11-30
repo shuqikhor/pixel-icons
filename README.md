@@ -11,6 +11,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | Image | File Name |
 |-------|-----------|
 | <img width="45" height="45" src="icons/apple.svg"> | apple.svg |
+| <img width="45" height="45" src="icons/avocado.svg"> | avocado.svg |
 | <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
 | <img width="45" height="45" src="icons/basket.svg"> | basket.svg |
 | <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
@@ -86,6 +87,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
 | <img width="45" height="45" src="icons/rabbit-grey.svg"> | rabbit-grey.svg |
 | <img width="45" height="45" src="icons/rabbit-white.svg"> | rabbit-white.svg |
+| <img width="45" height="45" src="icons/ribbon.svg"> | ribbon.svg |
 | <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
 | <img width="45" height="45" src="icons/rudolph.svg"> | rudolph.svg |
