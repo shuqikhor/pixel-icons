@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-mango">
+	<polygon fill="#FFE800" points="6,3 6,2 4,2 4,3 3,3 3,5 2,5 2,7 3,7 3,8 4,8 4,7 5,7 5,6 6,6 6,5 7,5 7,3"/>
+	<rect fill="#FFC800" x="6" y="5" width="1" height="1"/>
+	<rect fill="#FFC800" x="5" y="6" width="1" height="1"/>
+	<rect fill="#FFC800" x="4" y="7" width="1" height="1"/>
+	<rect fill="#B67100" x="5" y="1" width="1" height="1"/>
+	<polygon fill="#00AF3E" points="7,2 7,1 6,1 6,3 7,3 7,4 8,4 8,2"/>
+</svg>
