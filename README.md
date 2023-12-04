@@ -130,6 +130,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/bulbasaur.svg"> | bulbasaur.svg |
 | <img width="45" height="45" src="icons/charmander.svg"> | charmander.svg |
 | <img width="45" height="45" src="icons/eevee.svg"> | eevee.svg |
+| <img width="45" height="45" src="icons/meowth.svg"> | meowth.svg |
 | <img width="45" height="45" src="icons/pikachu.svg"> | pikachu.svg |
 | <img width="45" height="45" src="icons/squirtle.svg"> | squirtle.svg |
 
