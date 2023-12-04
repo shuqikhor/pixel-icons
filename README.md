@@ -68,6 +68,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/koala-hug.svg"> | koala-hug.svg |
 | <img width="45" height="45" src="icons/mailbox.svg"> | mailbox.svg |
 | <img width="45" height="45" src="icons/mallard.svg"> | mallard.svg |
+| <img width="45" height="45" src="icons/mango.svg"> | mango.svg |
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
