@@ -53,6 +53,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
+| <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
@@ -162,10 +163,6 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/arrow-down.svg"> | arrow-down.svg |
 | <img width="45" height="45" src="icons/arrow-left.svg"> | arrow-left.svg |
 | <img width="45" height="45" src="icons/arrow-right.svg"> | arrow-right.svg |
-| <img width="45" height="45" src="icons/caret-up.svg"> | caret-up.svg |
-| <img width="45" height="45" src="icons/caret-down.svg"> | caret-down.svg |
-| <img width="45" height="45" src="icons/caret-left.svg"> | caret-left.svg |
-| <img width="45" height="45" src="icons/caret-right.svg"> | caret-right.svg |
 | <img width="45" height="45" src="icons/battery-1-6.svg"> | battery-1-6.svg |
 | <img width="45" height="45" src="icons/battery-2-6.svg"> | battery-2-6.svg |
 | <img width="45" height="45" src="icons/battery-3-6.svg"> | battery-3-6.svg |
@@ -175,11 +172,14 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/bear.svg"> | bear.svg |
 | <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
+| <img width="45" height="45" src="icons/caret-up.svg"> | caret-up.svg |
+| <img width="45" height="45" src="icons/caret-down.svg"> | caret-down.svg |
+| <img width="45" height="45" src="icons/caret-left.svg"> | caret-left.svg |
+| <img width="45" height="45" src="icons/caret-right.svg"> | caret-right.svg |
 | <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
 | <img width="45" height="45" src="icons/control-panel.svg"> | control-panel.svg |
 | <img width="45" height="45" src="icons/copy.svg"> | copy.svg |
 | <img width="45" height="45" src="icons/edit.svg"> | edit.svg |
-| <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
 | <img width="45" height="45" src="icons/export.svg"> | export.svg |
 | <img width="45" height="45" src="icons/file-picture.svg"> | file-picture.svg |
 | <img width="45" height="45" src="icons/file-text.svg"> | file-text.svg |
@@ -197,6 +197,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/message-typing.svg"> | message-typing.svg |
 | <img width="45" height="45" src="icons/messages.svg"> | messages.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
+| <img width="45" height="45" src="icons/pineapple.svg"> | pineapple.svg |
 | <img width="45" height="45" src="icons/printer.svg"> | printer.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
