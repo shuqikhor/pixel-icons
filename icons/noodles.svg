@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-noodles">
+	<rect fill="#FFE800" x="2" y="0" width="1" height="1"/>
+	<rect fill="#FFE800" x="3" y="1" width="1" height="2"/>
+	<rect fill="#FFE800" x="2" y="3" width="1" height="2"/>
+	<rect fill="#FFE800" x="4" y="0" width="1" height="1"/>
+	<rect fill="#FFE800" x="5" y="1" width="1" height="2"/>
+	<rect fill="#FFE800" x="4" y="3" width="1" height="2"/>
+	<rect fill="#FFE800" x="6" y="0" width="1" height="1"/>
+	<rect fill="#FFE800" x="7" y="1" width="1" height="2"/>
+	<rect fill="#FFE800" x="6" y="3" width="1" height="2"/>
+	<rect fill="#FFB100" x="3" y="0" width="1" height="1"/>
+	<rect fill="#FFB100" x="4" y="1" width="1" height="2"/>
+	<rect fill="#FFB100" x="3" y="3" width="1" height="2"/>
+	<rect fill="#FFB100" x="5" y="0" width="1" height="1"/>
+	<rect fill="#FFB100" x="6" y="1" width="1" height="2"/>
+	<rect fill="#FFB100" x="5" y="3" width="1" height="2"/>
+	<rect fill="#B67100" x="1" width="1" height="1"/>
+	<rect fill="#B67100" x="7" width="2" height="1"/>
+	<rect fill="#9C5F00" x="1" y="1" width="2" height="1"/>
+	<rect fill="#9C5F00" x="8" y="1" width="1" height="1"/>
+	<polygon fill="#C10015" points="2,5 2,7 3,7 3,8 6,8 6,7 7,7 7,5"/>
+</svg>
