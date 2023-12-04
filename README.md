@@ -103,6 +103,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
 | <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
+| <img width="45" height="45" src="icons/wombat.svg"> | wombat.svg |
 | <img width="45" height="45" src="icons/wreath.svg"> | wreath.svg |
 
 ## Brand Logos
@@ -142,6 +143,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
 | <img width="45" height="45" src="icons/spooderman.svg"> | spooderman.svg |
 | <img width="45" height="45" src="icons/rickroll.svg"> | rickroll.svg |
+| <img width="45" height="45" src="icons/sacabambaspis.svg"> | sacabambaspis.svg |
 | <img width="45" height="45" src="icons/sad-pepe.svg"> | sad-pepe.svg |
 | <img width="45" height="45" src="icons/stonks.svg"> | stonks.svg |
 | <img width="45" height="45" src="icons/surprised-pikachu.svg"> | surprised-pikachu.svg |
