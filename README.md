@@ -82,10 +82,12 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
 | <img width="45" height="45" src="icons/pig.svg"> | pig.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
+| <img width="45" height="45" src="icons/pineapple.svg"> | pineapple.svg |
 | <img width="45" height="45" src="icons/pizza-slice.svg"> | pizza-slice.svg |
 | <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
 | <img width="45" height="45" src="icons/plane.svg"> | plane.svg |
 | <img width="45" height="45" src="icons/pumpkin.svg"> | pumpkin.svg |
+| <img width="45" height="45" src="icons/rain.svg"> | rain.svg |
 | <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
 | <img width="45" height="45" src="icons/rabbit-grey.svg"> | rabbit-grey.svg |
 | <img width="45" height="45" src="icons/rabbit-white.svg"> | rabbit-white.svg |
@@ -97,6 +99,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
 | <img width="45" height="45" src="icons/shop.svg"> | shop.svg |
 | <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
+| <img width="45" height="45" src="icons/snow.svg"> | snow.svg |
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
 | <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
@@ -197,7 +200,6 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/message-typing.svg"> | message-typing.svg |
 | <img width="45" height="45" src="icons/messages.svg"> | messages.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
-| <img width="45" height="45" src="icons/pineapple.svg"> | pineapple.svg |
 | <img width="45" height="45" src="icons/printer.svg"> | printer.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
 | <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
