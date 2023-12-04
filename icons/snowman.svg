@@ -1,13 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-snowman">
 	<polygon fill="#EBEAF7" points="4,2 5,2 5,1 6,1 6,0 3,0 3,1 4,1"/>
-	<path fill="#EBEAF7" d="M7,5V1H6v1H5v1H4V2H3V1H2v4H1v2h1v1h1v1h3V8h1V7h1V5H7z M5,7H4V6h1V7z M5,4v1H4V4H5z"/>
+	<polygon fill="#EBEAF7" points="4,3 4,2 3,2 3,1 2,1 2,3"/>
+	<polygon fill="#EBEAF7" points="5,2 5,3 7,3 7,1 6,1 6,2"/>
+	<path fill="#EBEAF7" d="M7,5V4H6v1H4V4H2v1H1v2h1v1h1v1h3V8h1V7h1V5H7z M5,6v1H4V6H5z"/>
 	<rect fill="#343341" x="3" y="1" width="1" height="1"/>
 	<rect fill="#343341" x="5" y="1" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="4" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="6" width="1" height="1"/>
 	<rect fill="#FFB100" x="4" y="2" width="1" height="1"/>
+	<polygon fill="#C10015" points="2,3 2,4 5,4 5,5 6,5 6,4 7,4 7,3"/>
 	<rect fill="#9C5F00" x="0" y="3" width="1" height="1"/>
 	<rect fill="#9C5F00" x="1" y="4" width="1" height="1"/>
 	<rect fill="#9C5F00" x="8" y="3" width="1" height="1"/>
 	<rect fill="#9C5F00" x="7" y="4" width="1" height="1"/>
-	<rect fill="#4435FF" x="4" y="4" width="1" height="1"/>
-	<rect fill="#4435FF" x="4" y="6" width="1" height="1"/>
 </svg>
