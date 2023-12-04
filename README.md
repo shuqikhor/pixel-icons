@@ -101,6 +101,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/snow.svg"> | snow.svg |
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
+| <img width="45" height="45" src="icons/sparkles.svg"> | sparkles.svg |
 | <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
