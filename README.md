@@ -42,6 +42,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
 | <img width="45" height="45" src="icons/coffee-takeaway.svg"> | coffee-takeaway.svg |
+| <img width="45" height="45" src="icons/cookie.svg"> | cookie.svg |
 | <img width="45" height="45" src="icons/cow.svg"> | cow.svg |
 | <img width="45" height="45" src="icons/device-computer.svg"> | device-computer.svg |
 | <img width="45" height="45" src="icons/device-smartphone.svg"> | device-smartphone.svg |
@@ -51,6 +52,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/dog-shiba.svg"> | dog-shiba.svg |
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
 | <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
+| <img width="45" height="45" src="icons/durian.svg"> | durian.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
 | <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
