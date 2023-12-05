@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-guitar">
-	<rect fill="#9C5F00" x="4" y="2" width="1" height="2"/>
-	<rect fill="#D38100" x="4" y="0" width="2" height="2"/>
-	<path fill="#D38100" d="M7,6V5H6V4H3v1H2v1h1v1H2v2h5V7H6V6H7z M5,7H4V6h1V7z"/>
+	<path fill="#D38100" d="M6,6V4H5v1H4V4H3v2H2v2h1v1h3V8h1V6H6z M5,6v1H4V6H5z"/>
+	<rect fill="#D38100" x="4" y="0" width="1" height="2"/>
+	<rect fill="#9C5F00" x="4" y="2" width="1" height="3"/>
 	<rect fill="#343341" x="4" y="6" width="1" height="1"/>
 </svg>
