@@ -90,10 +90,11 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
 | <img width="45" height="45" src="icons/plane.svg"> | plane.svg |
 | <img width="45" height="45" src="icons/pumpkin.svg"> | pumpkin.svg |
-| <img width="45" height="45" src="icons/rain.svg"> | rain.svg |
-| <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
+| <img width="45" height="45" src="icons/raccoon.svg"> | raccoon.svg |
 | <img width="45" height="45" src="icons/rabbit-grey.svg"> | rabbit-grey.svg |
 | <img width="45" height="45" src="icons/rabbit-white.svg"> | rabbit-white.svg |
+| <img width="45" height="45" src="icons/rain.svg"> | rain.svg |
+| <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
 | <img width="45" height="45" src="icons/ribbon.svg"> | ribbon.svg |
 | <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
