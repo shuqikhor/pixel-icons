@@ -57,11 +57,13 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
 | <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
+| <img width="45" height="45" src="icons/game-controller.svg"> | game-controller.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
 | <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
 | <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
+| <img width="45" height="45" src="icons/horse.svg"> | horse.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
 | <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
 | <img width="45" height="45" src="icons/luggage.svg"> | luggage.svg |
@@ -110,6 +112,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
+| <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |
 | <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
 | <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |

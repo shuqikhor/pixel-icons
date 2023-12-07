@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-game-controller">
+	<path fill="#9F65FF" d="M1,2V3H0V6H1V7H3V6H6V7H8V6H9V3H8V2z M2,6V5H1V4H2V3H3V4H4V5H3V6z M7,5H6V4H7z M8,4H7V3H8z"/>
+	<rect fill="#343341" x="5" y="0" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="1" width="1" height="1"/>
+	<path fill="#EBEAF7" d="M2,3V4H1V5H2V6H3V5H4V4H3V3z"/>
+	<rect fill="#FFE800" x="7" y="3" width="1" height="1"/>
+	<rect fill="#89CDFF" x="6" y="4" width="1" height="1"/>
+</svg>
