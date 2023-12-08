@@ -113,6 +113,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
 | <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |
+| <img width="45" height="45" src="icons/xmas-bell.svg"> | xmas-bell.svg |
 | <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
 | <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
