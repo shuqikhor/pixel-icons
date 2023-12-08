@@ -14,12 +14,11 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/avocado.svg"> | avocado.svg |
 | <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
 | <img width="45" height="45" src="icons/basket.svg"> | basket.svg |
-| <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
+| <img width="45" height="45" src="icons/bear.svg"> | bear.svg |
 | <img width="45" height="45" src="icons/birthday-cake.svg"> | birthday-cake.svg |
 | <img width="45" height="45" src="icons/book.svg"> | book.svg |
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
 | <img width="45" height="45" src="icons/bubble-tea.svg"> | bubble-tea.svg |
-| <img width="45" height="45" src="icons/burger-menu.svg"> | burger-menu.svg |
 | <img width="45" height="45" src="icons/burger.svg"> | burger.svg |
 | <img width="45" height="45" src="icons/bus.svg"> | bus.svg |
 | <img width="45" height="45" src="icons/calendar.svg"> | calendar.svg |
@@ -37,7 +36,6 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/cat-orange.svg"> | cat-orange.svg |
 | <img width="45" height="45" src="icons/cat-tabby.svg"> | cat-tabby.svg |
 | <img width="45" height="45" src="icons/cat-white.svg"> | cat-white.svg |
-| <img width="45" height="45" src="icons/chart.svg"> | chart.svg |
 | <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
@@ -70,6 +68,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
 | <img width="45" height="45" src="icons/koala.svg"> | koala.svg |
 | <img width="45" height="45" src="icons/koala-hug.svg"> | koala-hug.svg |
+| <img width="45" height="45" src="icons/lion.svg"> | lion.svg |
 | <img width="45" height="45" src="icons/mailbox.svg"> | mailbox.svg |
 | <img width="45" height="45" src="icons/mallard.svg"> | mallard.svg |
 | <img width="45" height="45" src="icons/mango.svg"> | mango.svg |
@@ -182,13 +181,15 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/battery-4-6.svg"> | battery-4-6.svg |
 | <img width="45" height="45" src="icons/battery-5-6.svg"> | battery-5-6.svg |
 | <img width="45" height="45" src="icons/battery-6-6.svg"> | battery-6-6.svg |
-| <img width="45" height="45" src="icons/bear.svg"> | bear.svg |
+| <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
 | <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
+| <img width="45" height="45" src="icons/burger-menu.svg"> | burger-menu.svg |
 | <img width="45" height="45" src="icons/caret-up.svg"> | caret-up.svg |
 | <img width="45" height="45" src="icons/caret-down.svg"> | caret-down.svg |
 | <img width="45" height="45" src="icons/caret-left.svg"> | caret-left.svg |
 | <img width="45" height="45" src="icons/caret-right.svg"> | caret-right.svg |
+| <img width="45" height="45" src="icons/chart.svg"> | chart.svg |
 | <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
 | <img width="45" height="45" src="icons/control-panel.svg"> | control-panel.svg |
 | <img width="45" height="45" src="icons/copy.svg"> | copy.svg |
@@ -201,7 +202,6 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/gear.svg"> | gear.svg |
 | <img width="45" height="45" src="icons/inbox.svg"> | inbox.svg |
 | <img width="45" height="45" src="icons/outbox.svg"> | outbox.svg |
-| <img width="45" height="45" src="icons/lion.svg"> | lion.svg |
 | <img width="45" height="45" src="icons/lock.svg"> | lock.svg |
 | <img width="45" height="45" src="icons/magnifier.svg"> | magnifier.svg |
 | <img width="45" height="45" src="icons/mail.svg"> | mail.svg |
