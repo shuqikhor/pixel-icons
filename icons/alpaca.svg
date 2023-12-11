@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-alpaca">
+	<path fill="#D38100" d="M3,0V1H2V0H1V2H4V0z"/>
+	<path fill="#D38100" d="M6,9H7V7H8V6H7V5H4V3H1V9H2V7H3V9H4V7H6z"/>
+	<rect fill="#E5E3D1" x="2" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="1" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="2" width="1" height="1"/>
+</svg>

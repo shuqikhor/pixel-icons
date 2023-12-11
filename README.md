@@ -13,6 +13,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | Image | File Name |
 |-------|-----------|
 | <img width="45" height="45" src="icons/apple.svg"> | apple.svg |
+| <img width="45" height="45" src="icons/alpaca.svg"> | alpaca.svg |
 | <img width="45" height="45" src="icons/avocado.svg"> | avocado.svg |
 | <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
 | <img width="45" height="45" src="icons/basket.svg"> | basket.svg |
