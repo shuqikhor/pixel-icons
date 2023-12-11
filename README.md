@@ -111,6 +111,8 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
+| <img width="45" height="45" src="icons/tapir.svg"> | tapir.svg |
+| <img width="45" height="45" src="icons/tapir-baby.svg"> | tapir-baby.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
 | <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |
 | <img width="45" height="45" src="icons/xmas-bell.svg"> | xmas-bell.svg |
