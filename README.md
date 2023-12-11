@@ -4,6 +4,8 @@ This is a set of icons I made for fun. Feel free to use them as you please.
 
 You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.com/pixel-icons).
 
+To ease my workflow, all these icons were optimised with my tiny Python script [https://github.com/shuqikhor/optimise-pixels](optimise-pixels).
+
 <img title="Icon preview" alt="Icon preview" src="preview.png" width="715">
 
 ## Objects
