@@ -54,6 +54,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
 | <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
+| <img width="45" height="45" src="icons/fox.svg"> | fox.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/game-controller.svg"> | game-controller.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
