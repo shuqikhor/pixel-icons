@@ -2,6 +2,6 @@
 	<path fill="#343341" d="M0,7H1V6H2V8H3V7H4V8H5V6H4V3H3V2H2V3H1V4H0z M3,4V5H2V4z"/>
 	<rect fill="#343341" x="4" y="2" width="1" height="1"/>
 	<path fill="#343341" d="M8,7V8H9V5H8V6H7V7z"/>
+	<rect fill="#EBEAF7" x="2" y="4" width="1" height="1"/>
 	<path fill="#EBEAF7" d="M4,3V6H5V7H7V6H8V5H9V4H8V3z"/>
-	<rect fill="#6F6D81" x="2" y="4" width="1" height="1"/>
 </svg>
