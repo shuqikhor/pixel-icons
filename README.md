@@ -133,10 +133,12 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/chrome.svg"> | chrome.svg |
 | <img width="45" height="45" src="icons/facebook.svg"> | facebook.svg |
 | <img width="45" height="45" src="icons/facebook-detailed.svg"> | facebook-detailed.svg |
+| <img width="45" height="45" src="icons/firefox.svg"> | firefox.svg |
 | <img width="45" height="45" src="icons/instagram.svg"> | instagram.svg |
 | <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
 | <img width="45" height="45" src="icons/reddit.svg"> | reddit.svg |
 | <img width="45" height="45" src="icons/reddit-detailed.svg"> | reddit-detailed.svg |
+| <img width="45" height="45" src="icons/safari.svg"> | safari.svg |
 | <img width="45" height="45" src="icons/spotify.svg"> | spotify.svg |
 | <img width="45" height="45" src="icons/tiktok.svg"> | tiktok.svg |
 | <img width="45" height="45" src="icons/x.svg"> | x.svg |

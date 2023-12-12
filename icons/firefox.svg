@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-firefox">
+	<path fill="#9F65FF" d="M6,4L6,3L7,3L7,2L6,2L6,1L3,1L3,4L4,4L4,5L3,5L3,6L4,6L4,7L5,7L5,6L7,6L7,4z"/>
+	<rect fill="#9F65FF" x="7" y="3" width="1" height="1"/>
+	<path fill="#FF9200" d="M9,7L9,3L8,3L8,6L7,6L7,7L4,7L4,6L3,6L3,5L4,5L4,4L3,4L3,2L2,2L2,3L1,3L1,2L0,2L0,6L1,6L1,8L2,8L2,9L7,9L7,8L8,8L8,7z"/>
+	<rect fill="#FFE800" x="5" y="0" width="2" height="1"/>
+	<rect fill="#FFE800" x="6" y="3" width="1" height="1"/>
+	<path fill="#FFB100" d="M6,2L7,2L7,3L9,3L9,2L8,2L8,1L6,1z"/>
+	<rect fill="#FFB100" x="7" y="4" width="1" height="2"/>
+	<rect fill="#FFB100" x="5" y="6" width="2" height="1"/>
+</svg>
