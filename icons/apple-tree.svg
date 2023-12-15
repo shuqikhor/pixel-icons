@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-apple-tree">
+	<path fill="#00AF3E" d="M2,1V2H1V5H2V6H4V5H5V6H7V5H8V2H7V1z M2,3H3V4H2z M4,2H5V3H4z M5,4H6V5H5z M6,3H7V4H6z"/>
+	<rect fill="#F92F3C" x="4" y="2" width="1" height="1"/>
+	<rect fill="#F92F3C" x="2" y="3" width="1" height="1"/>
+	<rect fill="#F92F3C" x="6" y="3" width="1" height="1"/>
+	<rect fill="#F92F3C" x="5" y="4" width="1" height="1"/>
+	<rect fill="#D38100" x="4" y="5" width="1" height="3"/>
+</svg>

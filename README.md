@@ -13,6 +13,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | Image | File Name |
 |-------|-----------|
 | <img width="45" height="45" src="icons/apple.svg"> | apple.svg |
+| <img width="45" height="45" src="icons/apple-tree.svg"> | apple-tree.svg |
 | <img width="45" height="45" src="icons/alpaca.svg"> | alpaca.svg |
 | <img width="45" height="45" src="icons/avocado.svg"> | avocado.svg |
 | <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
@@ -78,6 +79,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/mango.svg"> | mango.svg |
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
+| <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/noodles.svg"> | noodles.svg |
 | <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
