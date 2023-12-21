@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-clock">
+	<path fill="#EBEAF7" d="M3,2H2V3H1V6H2V7H3V8H6V7H7V6H8V3H7V2H6V1H3z M4,2H5V4H6V5H4z"/>
+	<rect fill="#343341" x="4" y="2" width="1" height="2"/>
+	<rect fill="#F92F3C" x="4" y="4" width="2" height="1"/>
+</svg>

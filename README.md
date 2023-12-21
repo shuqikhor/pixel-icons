@@ -41,6 +41,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/cat-tabby.svg"> | cat-tabby.svg |
 | <img width="45" height="45" src="icons/cat-white.svg"> | cat-white.svg |
 | <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
+| <img width="45" height="45" src="icons/clock.svg"> | clock.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
 | <img width="45" height="45" src="icons/coffee-takeaway.svg"> | coffee-takeaway.svg |
