@@ -117,6 +117,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
+| <img width="45" height="45" src="icons/tang-yuan.svg"> | tang-yuan.svg |
 | <img width="45" height="45" src="icons/tapir.svg"> | tapir.svg |
 | <img width="45" height="45" src="icons/tapir-baby.svg"> | tapir-baby.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
