@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-light-bulb">
+	<path fill="#FFE800" d="M6,1H3V2H2V5H3V6H4V4H3V3H6V4H5V6H6V5H7V2H6z"/>
+	<path fill="#FFFFFF" d="M6,4V3H3V4H4V6H5V4z"/>
+	<rect fill="#6F6D81" x="3" y="6" width="3" height="1"/>
+	<rect fill="#A1A0B4" x="4" y="7" width="1" height="1"/>
+</svg>

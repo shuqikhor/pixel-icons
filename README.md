@@ -75,6 +75,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/koala.svg"> | koala.svg |
 | <img width="45" height="45" src="icons/koala-hug.svg"> | koala-hug.svg |
 | <img width="45" height="45" src="icons/lion.svg"> | lion.svg |
+| <img width="45" height="45" src="icons/light-bulb.svg"> | light-bulb.svg |
 | <img width="45" height="45" src="icons/mailbox.svg"> | mailbox.svg |
 | <img width="45" height="45" src="icons/mallard.svg"> | mallard.svg |
 | <img width="45" height="45" src="icons/mango.svg"> | mango.svg |
@@ -216,6 +217,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/gear.svg"> | gear.svg |
 | <img width="45" height="45" src="icons/inbox.svg"> | inbox.svg |
 | <img width="45" height="45" src="icons/outbox.svg"> | outbox.svg |
+| <img width="45" height="45" src="icons/light-bulb-on.svg"> | light-bulb-on.svg |
+| <img width="45" height="45" src="icons/light-bulb-off.svg"> | light-bulb-off.svg |
 | <img width="45" height="45" src="icons/lock.svg"> | lock.svg |
 | <img width="45" height="45" src="icons/magnifier.svg"> | magnifier.svg |
 | <img width="45" height="45" src="icons/mail.svg"> | mail.svg |
