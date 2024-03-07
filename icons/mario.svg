@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-mario">
+	<path fill="#F92F3C" d="M3,0V1H2V2H8V1H6V0z"/>
+	<rect fill="#F92F3C" x="1" y="5" width="2" height="1"/>
+	<rect fill="#F92F3C" x="4" y="5" width="1" height="1"/>
+	<rect fill="#F92F3C" x="6" y="5" width="2" height="1"/>
+	<path fill="#FFA74E" d="M8,4V3H7V2H6V3H5V2H4V3H3V4H4V5H5V4z"/>
+	<rect fill="#FFA74E" x="0" y="6" width="1" height="1"/>
+	<rect fill="#FFA74E" x="8" y="6" width="1" height="1"/>
+	<rect fill="#9C5F00" x="3" y="2" width="1" height="1"/>
+	<path fill="#9C5F00" d="M2,5H4V4H3V3H2z"/>
+	<rect fill="#9C5F00" x="1" y="8" width="2" height="1"/>
+	<rect fill="#9C5F00" x="6" y="8" width="2" height="1"/>
+	<rect fill="#343341" x="5" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="5" y="4" width="2" height="1"/>
+	<path fill="#4435FF" d="M5,6H4V5H3V6H2V8H7V6H6V5H5z"/>
+</svg>
