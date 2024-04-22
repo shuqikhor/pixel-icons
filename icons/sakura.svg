@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-sakura">
+	<path fill="#FFD6D7" d="M3,8H5V7H6V6H8V4H7V3H6V1H4V2H3V3H1V5H2V6H3z M4,5H3V4H4V3H5V4H6V5H5V6H4z"/>
+	<rect fill="#FFAEB0" x="4" y="3" width="1" height="1"/>
+	<rect fill="#FFAEB0" x="3" y="4" width="1" height="1"/>
+	<rect fill="#FFAEB0" x="5" y="4" width="1" height="1"/>
+	<rect fill="#FFAEB0" x="4" y="5" width="1" height="1"/>
+	<rect fill="#FFFBD4" x="4" y="4" width="1" height="1"/>
+</svg>

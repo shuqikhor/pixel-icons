@@ -110,6 +110,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
 | <img width="45" height="45" src="icons/rudolph.svg"> | rudolph.svg |
+| <img width="45" height="45" src="icons/sakura.svg"> | sakura.svg |
+| <img width="45" height="45" src="icons/sakura-tree.svg"> | sakura-tree.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
 | <img width="45" height="45" src="icons/shop.svg"> | shop.svg |
