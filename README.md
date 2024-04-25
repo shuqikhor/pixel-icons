@@ -107,6 +107,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/rain.svg"> | rain.svg |
 | <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
 | <img width="45" height="45" src="icons/ribbon.svg"> | ribbon.svg |
+| <img width="45" height="45" src="icons/robot.svg"> | robot.svg |
 | <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
 | <img width="45" height="45" src="icons/rudolph.svg"> | rudolph.svg |
