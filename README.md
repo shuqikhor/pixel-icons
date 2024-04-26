@@ -82,6 +82,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/mario.svg"> | mario.svg |
 | <img width="45" height="45" src="icons/mario-jump.svg"> | mario-jump.svg |
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
+| <img width="45" height="45" src="icons/monkey.svg"> | monkey.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
