@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-siumai1">
+	<rect fill="#FDF3A1" x="3" y="1" width="3" height="1"/>
+	<rect fill="#FDF3A1" x="2" y="2" width="1" height="1"/>
+	<path fill="#FDF3A1" d="M5,4H7V2H6V3H5z"/>
+	<path fill="#FFE800" d="M3,4V3H2V7H3V8H5V6H7V4z"/>
+	<path fill="#FF8D00" d="M6,3V2H3V4H5V3z"/>
+	<path fill="#FFC800" d="M5,6V8H6V7H7V6z"/>
+</svg>

@@ -125,6 +125,9 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/ship.svg"> | ship.svg |
 | <img width="45" height="45" src="icons/shop.svg"> | shop.svg |
 | <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
+| <img width="45" height="45" src="icons/siumai1.svg"> | siumai1.svg |
+| <img width="45" height="45" src="icons/siumai2.svg"> | siumai2.svg |
+| <img width="45" height="45" src="icons/siumai3.svg"> | siumai3.svg |
 | <img width="45" height="45" src="icons/snow.svg"> | snow.svg |
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
 | <img width="45" height="45" src="icons/sparkles.svg"> | sparkles.svg |
