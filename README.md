@@ -66,6 +66,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/game-controller.svg"> | game-controller.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
+| <img width="45" height="45" src="icons/gua-bao.svg"> | gua-bao.svg |
 | <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
 | <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
