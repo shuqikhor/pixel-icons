@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-psyduck">
+	<rect fill="#343341" x="3" y="0" width="1" height="1"/>
+	<rect fill="#343341" x="5" y="0" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="1" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="3" width="1" height="1"/>
+	<rect fill="#343341" x="5" y="3" width="1" height="1"/>
+	<path fill="#FFC400" d="M4,2V4H5V3H6V2z"/>
+	<path fill="#FFC400" d="M7,5V3H6V4H5V5H3V8H5V7H6V8H8V7H7V6H6V5z"/>
+	<rect fill="#FFFBD4" x="2" y="4" width="3" height="1"/>
+	<rect fill="#FFFBD4" x="2" y="7" width="1" height="1"/>
+	<rect fill="#FFFBD4" x="5" y="7" width="1" height="1"/>
+	<rect fill="#FFB100" x="3" y="2" width="1" height="1"/>
+	<rect fill="#FFB100" x="6" y="2" width="1" height="1"/>
+	<rect fill="#FFB100" x="2" y="3" width="1" height="1"/>
+	<rect fill="#FFB100" x="7" y="3" width="1" height="2"/>
+	<rect fill="#FFB100" x="2" y="5" width="1" height="1"/>
+	<rect fill="#FFB100" x="6" y="5" width="1" height="1"/>
+</svg>

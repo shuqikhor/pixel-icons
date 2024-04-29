@@ -45,6 +45,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
 | <img width="45" height="45" src="icons/coffee-takeaway.svg"> | coffee-takeaway.svg |
+| <img width="45" height="45" src="icons/convertible.svg"> | convertible.svg |
 | <img width="45" height="45" src="icons/cookie.svg"> | cookie.svg |
 | <img width="45" height="45" src="icons/cow.svg"> | cow.svg |
 | <img width="45" height="45" src="icons/device-computer.svg"> | device-computer.svg |
@@ -58,6 +59,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/durian.svg"> | durian.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
+| <img width="45" height="45" src="icons/electric-guitar.svg"> | electric-guitar.svg |
 | <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
 | <img width="45" height="45" src="icons/fox.svg"> | fox.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
@@ -67,6 +69,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
 | <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
 | <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
+| <img width="45" height="45" src="icons/helicopter.svg"> | helicopter.svg |
 | <img width="45" height="45" src="icons/horse.svg"> | horse.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
 | <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
@@ -99,6 +102,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
 | <img width="45" height="45" src="icons/pig.svg"> | pig.svg |
 | <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
+| <img width="45" height="45" src="icons/pinata.svg"> | pinata.svg |
 | <img width="45" height="45" src="icons/pineapple.svg"> | pineapple.svg |
 | <img width="45" height="45" src="icons/pizza-slice.svg"> | pizza-slice.svg |
 | <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
@@ -118,6 +122,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/sakura-tree.svg"> | sakura-tree.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
+| <img width="45" height="45" src="icons/ship.svg"> | ship.svg |
 | <img width="45" height="45" src="icons/shop.svg"> | shop.svg |
 | <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
 | <img width="45" height="45" src="icons/snow.svg"> | snow.svg |
@@ -150,6 +155,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/facebook.svg"> | facebook.svg |
 | <img width="45" height="45" src="icons/facebook-detailed.svg"> | facebook-detailed.svg |
 | <img width="45" height="45" src="icons/firefox.svg"> | firefox.svg |
+| <img width="45" height="45" src="icons/github.svg"> | github.svg |
 | <img width="45" height="45" src="icons/instagram.svg"> | instagram.svg |
 | <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
 | <img width="45" height="45" src="icons/internet-explorer.svg"> | internet-explorer.svg |
@@ -170,9 +176,12 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 |-------|-----------|
 | <img width="45" height="45" src="icons/bulbasaur.svg"> | bulbasaur.svg |
 | <img width="45" height="45" src="icons/charmander.svg"> | charmander.svg |
+| <img width="45" height="45" src="icons/diglett.svg"> | diglett.svg |
 | <img width="45" height="45" src="icons/eevee.svg"> | eevee.svg |
+| <img width="45" height="45" src="icons/jigglypuff.svg"> | jigglypuff.svg |
 | <img width="45" height="45" src="icons/meowth.svg"> | meowth.svg |
 | <img width="45" height="45" src="icons/pikachu.svg"> | pikachu.svg |
+| <img width="45" height="45" src="icons/psyduck.svg"> | psyduck.svg |
 | <img width="45" height="45" src="icons/squirtle.svg"> | squirtle.svg |
 
 ## Memes
@@ -211,6 +220,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
 | <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
 | <img width="45" height="45" src="icons/burger-menu.svg"> | burger-menu.svg |
+| <img width="45" height="45" src="icons/calculator.svg"> | calculator.svg |
 | <img width="45" height="45" src="icons/caret-up.svg"> | caret-up.svg |
 | <img width="45" height="45" src="icons/caret-down.svg"> | caret-down.svg |
 | <img width="45" height="45" src="icons/caret-left.svg"> | caret-left.svg |
@@ -247,25 +257,16 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
 | <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |
 | <img width="45" height="45" src="icons/sound-mute.svg"> | sound-mute.svg |
+| <img width="45" height="45" src="icons/tiger.svg"> | tiger.svg |
 | <img width="45" height="45" src="icons/thumb-up.svg"> | thumb-up.svg |
 | <img width="45" height="45" src="icons/thumb-down.svg"> | thumb-down.svg |
 | <img width="45" height="45" src="icons/unlock.svg"> | unlock.svg |
 | <img width="45" height="45" src="icons/user.svg"> | user.svg |
 | <img width="45" height="45" src="icons/users.svg"> | users.svg |
+| <img width="45" height="45" src="icons/waze.svg"> | waze.svg |
 | <img width="45" height="45" src="icons/wifi.svg"> | wifi.svg |
 | <img width="45" height="45" src="icons/wrench.svg"> | wrench.svg |
+| <img width="45" height="45" src="icons/yacht.svg"> | yacht.svg |
 | <img width="45" height="45" src="icons/zoom-in.svg"> | zoom-in.svg |
 | <img width="45" height="45" src="icons/zoom-out.svg"> | zoom-out.svg |
-<!-- yacht -->
-<!-- waze -->
-<!-- tiger -->
-<!-- convertible -->
-<!-- ship -->
-<!-- psyduck -->
-<!-- pinata -->
-<!-- jigglypuff -->
-<!-- helicopter -->
-<!-- github -->
-<!-- electric-guitar -->
-<!-- calculator -->
 

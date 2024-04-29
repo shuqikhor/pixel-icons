@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-helicopter">
+	<rect fill="#89CDFF" x="1" y="4" width="3" height="2"/>
+	<path fill="#F92F3C" d="M4,4V6H2V7H5V6H6V5H8V4H6V3H2V4z"/>
+	<rect fill="#F92F3C" x="8" y="3" width="1" height="1"/>
+	<rect fill="#6F6D81" x="4" y="2" width="1" height="1"/>
+	<rect fill="#EBEAF7" x="1" y="1" width="7" height="1"/>
+	<rect fill="#EBEAF7" x="8" y="4" width="1" height="1"/>
+</svg>

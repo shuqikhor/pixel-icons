@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-waze">
+	<path fill="#EBEAF7" d="M3,0V1H2V2H1V4H0V6H1V7H7V6H8V5H9V2H8V1H7V0z M3,2H4V3H3z M3,5V4H4V5z M6,5V6H4V5z M6,2H7V3H6z"/>
+	<rect fill="#343341" x="3" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="4" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="5" width="2" height="1"/>
+	<rect fill="#343341" x="3" y="7" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="7" width="1" height="1"/>
+</svg>
