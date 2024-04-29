@@ -83,6 +83,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/mario-jump.svg"> | mario-jump.svg |
 | <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
 | <img width="45" height="45" src="icons/monkey.svg"> | monkey.svg |
+| <img width="45" height="45" src="icons/monkey-love.svg"> | monkey-love.svg |
+| <img width="45" height="45" src="icons/monkey-walk.svg"> | monkey-walk.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
@@ -254,4 +256,16 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/wrench.svg"> | wrench.svg |
 | <img width="45" height="45" src="icons/zoom-in.svg"> | zoom-in.svg |
 | <img width="45" height="45" src="icons/zoom-out.svg"> | zoom-out.svg |
+<!-- yacht -->
+<!-- waze -->
+<!-- tiger -->
+<!-- convertible -->
+<!-- ship -->
+<!-- psyduck -->
+<!-- pinata -->
+<!-- jigglypuff -->
+<!-- helicopter -->
+<!-- github -->
+<!-- electric-guitar -->
+<!-- calculator -->
 
