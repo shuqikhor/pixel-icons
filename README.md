@@ -257,6 +257,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/message.svg"> | message.svg |
 | <img width="45" height="45" src="icons/message-typing.svg"> | message-typing.svg |
 | <img width="45" height="45" src="icons/messages.svg"> | messages.svg |
+| <img width="45" height="45" src="icons/microphone.svg"> | microphone.svg |
+| <img width="45" height="45" src="icons/music.svg"> | music.svg |
 | <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
 | <img width="45" height="45" src="icons/printer.svg"> | printer.svg |
 | <img width="45" height="45" src="icons/save.svg"> | save.svg |
