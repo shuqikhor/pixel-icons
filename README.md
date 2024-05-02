@@ -75,6 +75,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/horse.svg"> | horse.svg |
 | <img width="45" height="45" src="icons/house.svg"> | house.svg |
 | <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
+| <img width="45" height="45" src="icons/lu-rou-fan.svg"> | lu-rou-fan.svg |
 | <img width="45" height="45" src="icons/luggage.svg"> | luggage.svg |
 | <img width="45" height="45" src="icons/key.svg"> | key.svg |
 | <img width="45" height="45" src="icons/koala.svg"> | koala.svg |
@@ -117,6 +118,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/rain.svg"> | rain.svg |
 | <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
 | <img width="45" height="45" src="icons/ribbon.svg"> | ribbon.svg |
+| <img width="45" height="45" src="icons/rice.svg"> | rice.svg |
 | <img width="45" height="45" src="icons/robot.svg"> | robot.svg |
 | <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
 | <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
