@@ -162,6 +162,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/facebook-detailed.svg"> | facebook-detailed.svg |
 | <img width="45" height="45" src="icons/firefox.svg"> | firefox.svg |
 | <img width="45" height="45" src="icons/github.svg"> | github.svg |
+| <img width="45" height="45" src="icons/github-big.svg"> | github-big.svg |
 | <img width="45" height="45" src="icons/instagram.svg"> | instagram.svg |
 | <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
 | <img width="45" height="45" src="icons/internet-explorer.svg"> | internet-explorer.svg |
@@ -264,6 +265,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |
 | <img width="45" height="45" src="icons/sound-mute.svg"> | sound-mute.svg |
 | <img width="45" height="45" src="icons/tiger.svg"> | tiger.svg |
+| <img width="45" height="45" src="icons/tiger-walk.svg"> | tiger-walk.svg |
 | <img width="45" height="45" src="icons/thumb-up.svg"> | thumb-up.svg |
 | <img width="45" height="45" src="icons/thumb-down.svg"> | thumb-down.svg |
 | <img width="45" height="45" src="icons/unlock.svg"> | unlock.svg |
