@@ -3,19 +3,19 @@
 	<rect fill="#FFE800" x="0" y="3" width="4" height="1"/>
 	<rect fill="#FFE800" x="1" y="6" width="7" height="1"/>
 	<rect fill="#FFE800" x="8" y="7" width="1" height="1"/>
-	<rect fill="#FFE800" x="4" y="8" width="1" height="1"/>
 	<rect fill="#89CDFF" x="1" y="0" width="1" height="1"/>
 	<rect fill="#89CDFF" x="3" y="0" width="1" height="1"/>
-	<rect fill="#89CDFF" x="6" y="0" width="1" height="1"/>
+	<rect fill="#89CDFF" x="7" y="0" width="1" height="1"/>
 	<path fill="#89CDFF" d="M1,4V6H8V5H4V4z"/>
 	<rect fill="#89CDFF" x="8" y="6" width="1" height="1"/>
 	<path fill="#FFAEB0" d="M1,1V2H2V3H4V1z"/>
 	<rect fill="#FFAEB0" x="0" y="2" width="1" height="1"/>
-	<rect fill="#FFAEB0" x="5" y="3" width="1" height="1"/>
+	<rect fill="#FFAEB0" x="6" y="3" width="1" height="1"/>
 	<rect fill="#FFAEB0" x="8" y="5" width="1" height="1"/>
 	<rect fill="#FFAEB0" x="1" y="7" width="2" height="1"/>
 	<rect fill="#FFAEB0" x="6" y="7" width="2" height="1"/>
 	<rect fill="#343341" x="1" y="2" width="1" height="1"/>
 	<rect fill="#343341" x="1" y="8" width="2" height="1"/>
 	<rect fill="#343341" x="6" y="8" width="2" height="1"/>
+	<rect fill="#B67100" x="5" y="0" width="1" height="5"/>
 </svg>
