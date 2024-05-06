@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-california-roll">
+	<rect fill="#FF8D00" x="2" y="4" width="1" height="1"/>
+	<rect fill="#FF8D00" x="4" y="4" width="1" height="1"/>
+	<rect fill="#FF8D00" x="1" y="5" width="1" height="1"/>
+	<rect fill="#FF8D00" x="3" y="5" width="1" height="1"/>
+	<rect fill="#FF8D00" x="2" y="6" width="1" height="1"/>
+	<rect fill="#FF8D00" x="1" y="7" width="1" height="1"/>
+	<rect fill="#FF8D00" x="3" y="7" width="1" height="1"/>
+	<rect fill="#FFB100" x="3" y="4" width="1" height="1"/>
+	<rect fill="#FFB100" x="2" y="5" width="1" height="1"/>
+	<rect fill="#FFB100" x="1" y="6" width="1" height="1"/>
+	<rect fill="#FFB100" x="3" y="6" width="1" height="1"/>
+	<rect fill="#FFB100" x="2" y="7" width="1" height="1"/>
+	<rect fill="#FFC800" x="5" y="6" width="1" height="1"/>
+	<rect fill="#73E030" x="5" y="5" width="1" height="1"/>
+	<path fill="#EBEAF7" d="M7,4H5V5H4V8H7z M6,5V7H5V5z"/>
+</svg>

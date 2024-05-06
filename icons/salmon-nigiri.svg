@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-salmon-nigiri">
+	<path fill="#EBEAF7" d="M2,8H6V7H7V6H2z"/>
+	<path fill="#FF8D00" d="M2,5H1V6H3V4H2z"/>
+	<rect fill="#FF8D00" x="4" y="4" width="1" height="2"/>
+	<path fill="#FF8D00" d="M6,4V6H7V5H8V4z"/>
+	<rect fill="#FFB100" x="3" y="4" width="1" height="2"/>
+	<rect fill="#FFB100" x="5" y="4" width="1" height="2"/>
+</svg>

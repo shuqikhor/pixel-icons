@@ -96,6 +96,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/noodles.svg"> | noodles.svg |
+| <img width="45" height="45" src="icons/onigiri.svg"> | onigiri.svg |
 | <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
@@ -125,6 +126,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/rudolph.svg"> | rudolph.svg |
 | <img width="45" height="45" src="icons/sakura.svg"> | sakura.svg |
 | <img width="45" height="45" src="icons/sakura-tree.svg"> | sakura-tree.svg |
+| <img width="45" height="45" src="icons/salmon-maki.svg"> | salmon-maki.svg |
+| <img width="45" height="45" src="icons/salmon-nigiri.svg"> | salmon-nigiri.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
 | <img width="45" height="45" src="icons/ship.svg"> | ship.svg |
@@ -141,6 +144,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/submarine.svg"> | submarine.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
+| <img width="45" height="45" src="icons/tamago-nigiri.svg"> | tamago-nigiri.svg |
 | <img width="45" height="45" src="icons/tang-yuan.svg"> | tang-yuan.svg |
 | <img width="45" height="45" src="icons/tapir.svg"> | tapir.svg |
 | <img width="45" height="45" src="icons/tapir-baby.svg"> | tapir-baby.svg |
@@ -154,6 +158,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
 | <img width="45" height="45" src="icons/wombat.svg"> | wombat.svg |
 | <img width="45" height="45" src="icons/wreath.svg"> | wreath.svg |
+| <img width="45" height="45" src="icons/zongzi.svg"> | zongzi.svg |
 
 ## Brand Logos
 
