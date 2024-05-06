@@ -27,6 +27,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/burger.svg"> | burger.svg |
 | <img width="45" height="45" src="icons/bus.svg"> | bus.svg |
 | <img width="45" height="45" src="icons/calendar.svg"> | calendar.svg |
+| <img width="45" height="45" src="icons/california-roll.svg"> | california-roll.svg |
 | <img width="45" height="45" src="icons/camera-polaroid.svg"> | camera-polaroid.svg |
 | <img width="45" height="45" src="icons/camera.svg"> | camera.svg |
 | <img width="45" height="45" src="icons/candycane.svg"> | candycane.svg |
@@ -44,6 +45,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
 | <img width="45" height="45" src="icons/clock.svg"> | clock.svg |
 | <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
+| <img width="45" height="45" src="icons/clownfish.svg"> | clownfish.svg |
 | <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
 | <img width="45" height="45" src="icons/coffee-takeaway.svg"> | coffee-takeaway.svg |
 | <img width="45" height="45" src="icons/convertible.svg"> | convertible.svg |
@@ -62,6 +64,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
 | <img width="45" height="45" src="icons/electric-guitar.svg"> | electric-guitar.svg |
 | <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
+| <img width="45" height="45" src="icons/fish.svg"> | fish.svg |
 | <img width="45" height="45" src="icons/fox.svg"> | fox.svg |
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/game-controller.svg"> | game-controller.svg |

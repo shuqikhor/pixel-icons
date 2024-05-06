@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-zongzi">
+	<path fill="#B48003" d="M3,5H4V6H5V5H6V3H5V2H4V3H3z"/>
+	<path fill="#4E804C" d="M2,6H1V8H3V7H4V5H3V4H2z"/>
+	<path fill="#4E804C" d="M8,6H7V5H6V6H5V7H4V8H8z"/>
+	<rect fill="#276426" x="6" y="4" width="1" height="1"/>
+	<rect fill="#276426" x="5" y="5" width="1" height="1"/>
+	<rect fill="#276426" x="4" y="6" width="1" height="1"/>
+	<rect fill="#276426" x="3" y="7" width="1" height="1"/>
+</svg>
