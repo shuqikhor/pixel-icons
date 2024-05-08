@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-docker">
+	<path fill="#0065F5" d="M7,5H1V7H2V8H5V7H7V6H9V5H8V4H7z"/>
+	<rect fill="#75AAF9" x="2" y="3" width="1" height="1"/>
+	<rect fill="#75AAF9" x="4" y="3" width="1" height="1"/>
+	<rect fill="#75AAF9" x="1" y="4" width="1" height="1"/>
+	<rect fill="#75AAF9" x="3" y="4" width="1" height="1"/>
+	<rect fill="#75AAF9" x="5" y="4" width="1" height="1"/>
+	<rect fill="#3988F8" x="4" y="2" width="1" height="1"/>
+	<rect fill="#3988F8" x="3" y="3" width="1" height="1"/>
+	<rect fill="#3988F8" x="2" y="4" width="1" height="1"/>
+	<rect fill="#3988F8" x="4" y="4" width="1" height="1"/>
+</svg>

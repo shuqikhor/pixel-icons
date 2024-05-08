@@ -54,6 +54,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/device-computer.svg"> | device-computer.svg |
 | <img width="45" height="45" src="icons/device-smartphone.svg"> | device-smartphone.svg |
 | <img width="45" height="45" src="icons/device-tablet.svg"> | device-tablet.svg |
+| <img width="45" height="45" src="icons/docker.svg"> | docker.svg |
 | <img width="45" height="45" src="icons/dog.svg"> | dog.svg |
 | <img width="45" height="45" src="icons/dog-beagle.svg"> | dog-beagle.svg |
 | <img width="45" height="45" src="icons/dog-shiba.svg"> | dog-shiba.svg |
@@ -285,6 +286,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/user.svg"> | user.svg |
 | <img width="45" height="45" src="icons/users.svg"> | users.svg |
 | <img width="45" height="45" src="icons/waze.svg"> | waze.svg |
+| <img width="45" height="45" src="icons/whale.svg"> | whale.svg |
 | <img width="45" height="45" src="icons/wifi.svg"> | wifi.svg |
 | <img width="45" height="45" src="icons/wrench.svg"> | wrench.svg |
 | <img width="45" height="45" src="icons/yacht.svg"> | yacht.svg |
