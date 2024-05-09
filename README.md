@@ -35,6 +35,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/candycane.svg"> | candycane.svg |
 | <img width="45" height="45" src="icons/capybara.svg"> | capybara.svg |
 | <img width="45" height="45" src="icons/car.svg"> | car.svg |
+| <img width="45" height="45" src="icons/carrot.svg"> | carrot.svg |
 | <img width="45" height="45" src="icons/cart.svg"> | cart.svg |
 | <img width="45" height="45" src="icons/cat.svg"> | cat.svg |
 | <img width="45" height="45" src="icons/cat-sit.svg"> | cat-sit.svg |
@@ -156,6 +157,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/tapir.svg"> | tapir.svg |
 | <img width="45" height="45" src="icons/tapir-baby.svg"> | tapir-baby.svg |
 | <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
+| <img width="45" height="45" src="icons/tomato.svg"> | tomato.svg |
 | <img width="45" height="45" src="icons/truck.svg"> | truck.svg |
 | <img width="45" height="45" src="icons/truck-fast.svg"> | truck-fast.svg |
 | <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |

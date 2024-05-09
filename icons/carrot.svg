@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-carrot">
+	<path fill="#FF9500" d="M6,3H3V8H4V7H5V6H6z"/>
+	<rect fill="#1FAD4D" x="3" y="1" width="1" height="1"/>
+	<rect fill="#1FAD4D" x="5" y="1" width="1" height="1"/>
+	<rect fill="#1FAD4D" x="4" y="2" width="1" height="1"/>
+</svg>
