@@ -161,6 +161,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/tomato.svg"> | tomato.svg |
 | <img width="45" height="45" src="icons/truck.svg"> | truck.svg |
 | <img width="45" height="45" src="icons/truck-fast.svg"> | truck-fast.svg |
+| <img width="45" height="45" src="icons/umbrella.svg"> | umbrella.svg |
 | <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |
 | <img width="45" height="45" src="icons/xmas-bell.svg"> | xmas-bell.svg |
 | <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
