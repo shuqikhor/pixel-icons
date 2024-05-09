@@ -23,6 +23,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/book.svg"> | book.svg |
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
 | <img width="45" height="45" src="icons/box.svg"> | box.svg |
+| <img width="45" height="45" src="icons/broccoli.svg"> | broccoli.svg |
 | <img width="45" height="45" src="icons/bubble-tea.svg"> | bubble-tea.svg |
 | <img width="45" height="45" src="icons/burger.svg"> | burger.svg |
 | <img width="45" height="45" src="icons/bus.svg"> | bus.svg |
@@ -98,6 +99,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/monkey-walk.svg"> | monkey-walk.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
 | <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
+| <img width="45" height="45" src="icons/mushroom.svg"> | mushroom.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/noodles.svg"> | noodles.svg |
 | <img width="45" height="45" src="icons/onigiri.svg"> | onigiri.svg |
