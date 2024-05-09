@@ -62,6 +62,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/dog-beagle.svg"> | dog-beagle.svg |
 | <img width="45" height="45" src="icons/dog-shiba.svg"> | dog-shiba.svg |
 | <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
+| <img width="45" height="45" src="icons/dolphin.svg"> | dolphin.svg |
 | <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
 | <img width="45" height="45" src="icons/durian.svg"> | durian.svg |
 | <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
