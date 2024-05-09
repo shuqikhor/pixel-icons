@@ -23,6 +23,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/book.svg"> | book.svg |
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
 | <img width="45" height="45" src="icons/box.svg"> | box.svg |
+| <img width="45" height="45" src="icons/bread.svg"> | bread.svg |
 | <img width="45" height="45" src="icons/broccoli.svg"> | broccoli.svg |
 | <img width="45" height="45" src="icons/brown-mushroom.svg"> | brown-mushroom.svg |
 | <img width="45" height="45" src="icons/bubble-tea.svg"> | bubble-tea.svg |
@@ -106,6 +107,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/noodles.svg"> | noodles.svg |
 | <img width="45" height="45" src="icons/onigiri.svg"> | onigiri.svg |
+| <img width="45" height="45" src="icons/pancakes.svg"> | pancakes.svg |
 | <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
 | <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
@@ -137,6 +139,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/sakura-tree.svg"> | sakura-tree.svg |
 | <img width="45" height="45" src="icons/salmon-maki.svg"> | salmon-maki.svg |
 | <img width="45" height="45" src="icons/salmon-nigiri.svg"> | salmon-nigiri.svg |
+| <img width="45" height="45" src="icons/sandwich.svg"> | salmon-nigiri.svg |
 | <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
 | <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
 | <img width="45" height="45" src="icons/ship.svg"> | ship.svg |
@@ -149,7 +152,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
 | <img width="45" height="45" src="icons/sparkles.svg"> | sparkles.svg |
 | <img width="45" height="45" src="icons/squirrel.svg"> | squirrel.svg |
-| <img width="45" height="45" src="icons/strawberry.svg"> | shortcake.svg |
+| <img width="45" height="45" src="icons/strawberry.svg"> | strawberry.svg |
 | <img width="45" height="45" src="icons/submarine.svg"> | submarine.svg |
 | <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
 | <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
@@ -165,6 +168,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |
 | <img width="45" height="45" src="icons/xmas-bell.svg"> | xmas-bell.svg |
 | <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
+| <img width="45" height="45" src="icons/waffle.svg"> | waffle.svg |
 | <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
 | <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
 | <img width="45" height="45" src="icons/wombat.svg"> | wombat.svg |
