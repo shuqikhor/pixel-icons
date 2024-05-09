@@ -24,6 +24,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
 | <img width="45" height="45" src="icons/box.svg"> | box.svg |
 | <img width="45" height="45" src="icons/broccoli.svg"> | broccoli.svg |
+| <img width="45" height="45" src="icons/brown-mushroom.svg"> | brown-mushroom.svg |
 | <img width="45" height="45" src="icons/bubble-tea.svg"> | bubble-tea.svg |
 | <img width="45" height="45" src="icons/burger.svg"> | burger.svg |
 | <img width="45" height="45" src="icons/bus.svg"> | bus.svg |
