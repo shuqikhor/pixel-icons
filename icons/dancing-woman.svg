@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-dancing-woman">
+	<path fill="#FFCC00" d="M3,0V1H2V3H1V4H3V3H4V1H6V0z"/>
+	<path fill="#FFE6C7" d="M6,3V1H4V4H5V3z"/>
+	<rect fill="#FFE6C7" x="7" y="2" width="1" height="2"/>
+	<rect fill="#FFE6C7" x="6" y="4" width="1" height="1"/>
+	<rect fill="#FFE6C7" x="2" y="5" width="1" height="1"/>
+	<rect fill="#FFE6C7" x="1" y="6" width="1" height="1"/>
+	<rect fill="#FFE6C7" x="4" y="7" width="1" height="1"/>
+	<rect fill="#FFE6C7" x="6" y="7" width="1" height="2"/>
+	<rect fill="#FFE6C7" x="3" y="8" width="1" height="1"/>
+	<path fill="#B22222" d="M3,4V7H2V8H1V9H3V8H4V7H5V8H6V4z"/>
+	<rect fill="#B22222" x="4" y="8" width="1" height="1"/>
+</svg>

@@ -55,6 +55,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/convertible.svg"> | convertible.svg |
 | <img width="45" height="45" src="icons/cookie.svg"> | cookie.svg |
 | <img width="45" height="45" src="icons/cow.svg"> | cow.svg |
+| <img width="45" height="45" src="icons/dancing-man.svg"> | dancing-man.svg |
+| <img width="45" height="45" src="icons/dancing-woman.svg"> | dancing-woman.svg |
 | <img width="45" height="45" src="icons/device-computer.svg"> | device-computer.svg |
 | <img width="45" height="45" src="icons/device-smartphone.svg"> | device-smartphone.svg |
 | <img width="45" height="45" src="icons/device-tablet.svg"> | device-tablet.svg |
