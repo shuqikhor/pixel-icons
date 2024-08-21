@@ -105,6 +105,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/monkey-love.svg"> | monkey-love.svg |
 | <img width="45" height="45" src="icons/monkey-walk.svg"> | monkey-walk.svg |
 | <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
+| <img width="45" height="45" src="icons/mooncake-slice.svg"> | mooncake-slice.svg |
+| <img width="45" height="45" src="icons/mooncake-whole.svg"> | mooncake-whole.svg |
 | <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
 | <img width="45" height="45" src="icons/mushroom.svg"> | mushroom.svg |
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
