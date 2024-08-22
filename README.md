@@ -77,6 +77,10 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
 | <img width="45" height="45" src="icons/game-controller.svg"> | game-controller.svg |
 | <img width="45" height="45" src="icons/ghost.svg"> | ghost.svg |
+| <img width="45" height="45" src="icons/ghost-blue.svg"> | ghost-blue.svg |
+| <img width="45" height="45" src="icons/ghost-orange.svg"> | ghost-orange.svg |
+| <img width="45" height="45" src="icons/ghost-pink.svg"> | ghost-pink.svg |
+| <img width="45" height="45" src="icons/ghost-red.svg"> | ghost-red.svg |
 | <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
 | <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
 | <img width="45" height="45" src="icons/gua-bao.svg"> | gua-bao.svg |
@@ -113,6 +117,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
 | <img width="45" height="45" src="icons/noodles.svg"> | noodles.svg |
 | <img width="45" height="45" src="icons/onigiri.svg"> | onigiri.svg |
+| <img width="45" height="45" src="icons/pacman.svg"> | pacman.svg |
 | <img width="45" height="45" src="icons/pancakes.svg"> | pancakes.svg |
 | <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
 | <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
