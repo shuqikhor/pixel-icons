@@ -207,6 +207,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 | <img width="45" height="45" src="icons/instagram.svg"> | instagram.svg |
 | <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
 | <img width="45" height="45" src="icons/internet-explorer.svg"> | internet-explorer.svg |
+| <img width="45" height="45" src="icons/linkedin.svg"> | linkedin.svg |
 | <img width="45" height="45" src="icons/microsoft-edge.svg"> | microsoft-edge.svg |
 | <img width="45" height="45" src="icons/reddit.svg"> | reddit.svg |
 | <img width="45" height="45" src="icons/reddit-detailed.svg"> | reddit-detailed.svg |
