@@ -144,6 +144,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/dollar.svg" title="dollar.svg">
 <img width="36" src="icons/earth.svg" title="earth.svg">
 <img width="36" src="icons/electric-guitar.svg" title="electric-guitar.svg">
+<img width="36" src="icons/fire.svg" title="fire.svg">
 <img width="36" src="icons/game-controller.svg" title="game-controller.svg">
 <img width="36" src="icons/ghost.svg" title="ghost.svg">
 <img width="36" src="icons/gift.svg" title="gift.svg">
