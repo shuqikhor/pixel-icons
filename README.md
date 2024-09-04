@@ -7,7 +7,7 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 To ease my workflow, all these icons were optimised with my tiny Python script [https://github.com/shuqikhor/optimise-pixels](optimise-pixels).
 
 ## Animals
-
+\
 <img width="36" src="icons/alpaca.svg" title="alpaca.svg">
 <img width="36" src="icons/bear.svg" title="bear.svg">
 <img width="36" src="icons/capybara.svg" title="capybara.svg">
@@ -55,7 +55,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/wombat.svg" title="wombat.svg">
 
 ## Fruits, Vegetables and other Ingredients
-
+\
 <img width="36" src="icons/apple.svg" title="apple.svg">
 <img width="36" src="icons/avocado.svg" title="avocado.svg">
 <img width="36" src="icons/banana.svg" title="banana.svg">
@@ -75,7 +75,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/watermelon.svg" title="watermelon.svg">
 
 ## Food and Drinks
-
+\
 <img width="36" src="icons/birthday-cake.svg" title="birthday-cake.svg">
 <img width="36" src="icons/bread.svg" title="bread.svg">
 <img width="36" src="icons/bubble-tea.svg" title="bubble-tea.svg">
@@ -120,7 +120,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/zongzi.svg" title="zongzi.svg">
 
 ## Objects
-
+\
 <img width="36" src="icons/apple-tree.svg" title="apple-tree.svg">
 <img width="36" src="icons/basket.svg" title="basket.svg">
 <img width="36" src="icons/book.svg" title="book.svg">
@@ -196,7 +196,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/yacht.svg" title="yacht.svg">
 
 ## Logos
-
+\
 <img width="36" src="icons/apple-logo.svg" title="apple-logo.svg">
 <img width="36" src="icons/chrome.svg" title="chrome.svg">
 <img width="36" src="icons/docker.svg" title="docker.svg">
@@ -222,7 +222,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/youtube.svg" title="youtube.svg">
 
 ## Games
-
+\
 <img width="36" src="icons/ghost-blue.svg" title="ghost-blue.svg">
 <img width="36" src="icons/ghost-orange.svg" title="ghost-orange.svg">
 <img width="36" src="icons/ghost-pink.svg" title="ghost-pink.svg">
@@ -232,7 +232,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/pacman.svg" title="pacman.svg">
 
 ## Pokemons
-
+\
 <img width="36" src="icons/bulbasaur.svg" title="bulbasaur.svg">
 <img width="36" src="icons/charmander.svg" title="charmander.svg">
 <img width="36" src="icons/diglett.svg" title="diglett.svg">
@@ -244,7 +244,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/squirtle.svg" title="squirtle.svg">
 
 ## Memes
-
+\
 <img width="36" src="icons/nyan-cat.svg" title="nyan-cat.svg">
 <img width="36" src="icons/spooderman.svg" title="spooderman.svg">
 <img width="36" src="icons/rickroll.svg" title="rickroll.svg">
@@ -256,7 +256,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/this-is-fine.svg" title="this-is-fine.svg">
 
 ## UI
-
+\
 <img width="36" src="icons/align-center.svg" title="align-center.svg">
 <img width="36" src="icons/align-justify.svg" title="align-justify.svg">
 <img width="36" src="icons/align-left.svg" title="align-left.svg">
