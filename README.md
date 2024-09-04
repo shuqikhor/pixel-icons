@@ -6,341 +6,321 @@ You may browse and filter the icons on [sqkhor.com/pixel-icons](https://sqkhor.c
 
 To ease my workflow, all these icons were optimised with my tiny Python script [https://github.com/shuqikhor/optimise-pixels](optimise-pixels).
 
-<img title="Icon preview" alt="Icon preview" src="preview.png" width="715">
-
 ## Animals
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/alpaca.svg"> | alpaca.svg |
-| <img width="45" height="45" src="icons/bear.svg"> | bear.svg |
-| <img width="45" height="45" src="icons/capybara.svg"> | capybara.svg |
-| <img width="45" height="45" src="icons/cat.svg"> | cat.svg |
-| <img width="45" height="45" src="icons/cat-sit.svg"> | cat-sit.svg |
-| <img width="45" height="45" src="icons/cat-black.svg"> | cat-black.svg |
-| <img width="45" height="45" src="icons/cat-calico.svg"> | cat-calico.svg |
-| <img width="45" height="45" src="icons/cat-grey.svg"> | cat-grey.svg |
-| <img width="45" height="45" src="icons/cat-orange.svg"> | cat-orange.svg |
-| <img width="45" height="45" src="icons/cat-tabby.svg"> | cat-tabby.svg |
-| <img width="45" height="45" src="icons/cat-white.svg"> | cat-white.svg |
-| <img width="45" height="45" src="icons/clownfish.svg"> | clownfish.svg |
-| <img width="45" height="45" src="icons/cow.svg"> | cow.svg |
-| <img width="45" height="45" src="icons/dog.svg"> | dog.svg |
-| <img width="45" height="45" src="icons/dog-beagle.svg"> | dog-beagle.svg |
-| <img width="45" height="45" src="icons/dog-shiba.svg"> | dog-shiba.svg |
-| <img width="45" height="45" src="icons/dolphin.svg"> | dolphin.svg |
-| <img width="45" height="45" src="icons/duck.svg"> | duck.svg |
-| <img width="45" height="45" src="icons/elephant.svg"> | elephant.svg |
-| <img width="45" height="45" src="icons/fish.svg"> | fish.svg |
-| <img width="45" height="45" src="icons/fox.svg"> | fox.svg |
-| <img width="45" height="45" src="icons/horse.svg"> | horse.svg |
-| <img width="45" height="45" src="icons/koala.svg"> | koala.svg |
-| <img width="45" height="45" src="icons/koala-hug.svg"> | koala-hug.svg |
-| <img width="45" height="45" src="icons/lion.svg"> | lion.svg |
-| <img width="45" height="45" src="icons/mallard.svg"> | mallard.svg |
-| <img width="45" height="45" src="icons/monkey.svg"> | monkey.svg |
-| <img width="45" height="45" src="icons/monkey-love.svg"> | monkey-love.svg |
-| <img width="45" height="45" src="icons/monkey-walk.svg"> | monkey-walk.svg |
-| <img width="45" height="45" src="icons/panda.svg"> | panda.svg |
-| <img width="45" height="45" src="icons/penguin.svg"> | penguin.svg |
-| <img width="45" height="45" src="icons/pig.svg"> | pig.svg |
-| <img width="45" height="45" src="icons/raccoon.svg"> | raccoon.svg |
-| <img width="45" height="45" src="icons/rabbit-grey.svg"> | rabbit-grey.svg |
-| <img width="45" height="45" src="icons/rabbit-white.svg"> | rabbit-white.svg |
-| <img width="45" height="45" src="icons/rudolph.svg"> | rudolph.svg |
-| <img width="45" height="45" src="icons/sloth.svg"> | sloth.svg |
-| <img width="45" height="45" src="icons/squirrel.svg"> | squirrel.svg |
-| <img width="45" height="45" src="icons/tapir.svg"> | tapir.svg |
-| <img width="45" height="45" src="icons/tapir-baby.svg"> | tapir-baby.svg |
-| <img width="45" height="45" src="icons/tiger.svg"> | tiger.svg |
-| <img width="45" height="45" src="icons/tiger-walk.svg"> | tiger-walk.svg |
-| <img width="45" height="45" src="icons/unicorn.svg"> | unicorn.svg |
-| <img width="45" height="45" src="icons/whale.svg"> | whale.svg |
-| <img width="45" height="45" src="icons/wombat.svg"> | wombat.svg |
+<img width="36" src="icons/alpaca.svg" title="alpaca.svg">
+<img width="36" src="icons/bear.svg" title="bear.svg">
+<img width="36" src="icons/capybara.svg" title="capybara.svg">
+<img width="36" src="icons/cat.svg" title="cat.svg">
+<img width="36" src="icons/cat-sit.svg" title="cat-sit.svg">
+<img width="36" src="icons/cat-black.svg" title="cat-black.svg">
+<img width="36" src="icons/cat-calico.svg" title="cat-calico.svg">
+<img width="36" src="icons/cat-grey.svg" title="cat-grey.svg">
+<img width="36" src="icons/cat-orange.svg" title="cat-orange.svg">
+<img width="36" src="icons/cat-tabby.svg" title="cat-tabby.svg">
+<img width="36" src="icons/cat-white.svg" title="cat-white.svg">
+<img width="36" src="icons/clownfish.svg" title="clownfish.svg">
+<img width="36" src="icons/cow.svg" title="cow.svg">
+<img width="36" src="icons/dog.svg" title="dog.svg">
+<img width="36" src="icons/dog-beagle.svg" title="dog-beagle.svg">
+<img width="36" src="icons/dog-shiba.svg" title="dog-shiba.svg">
+<img width="36" src="icons/dolphin.svg" title="dolphin.svg">
+<img width="36" src="icons/duck.svg" title="duck.svg">
+<img width="36" src="icons/elephant.svg" title="elephant.svg">
+<img width="36" src="icons/fish.svg" title="fish.svg">
+<img width="36" src="icons/fox.svg" title="fox.svg">
+<img width="36" src="icons/horse.svg" title="horse.svg">
+<img width="36" src="icons/koala.svg" title="koala.svg">
+<img width="36" src="icons/koala-hug.svg" title="koala-hug.svg">
+<img width="36" src="icons/lion.svg" title="lion.svg">
+<img width="36" src="icons/mallard.svg" title="mallard.svg">
+<img width="36" src="icons/monkey.svg" title="monkey.svg">
+<img width="36" src="icons/monkey-love.svg" title="monkey-love.svg">
+<img width="36" src="icons/monkey-walk.svg" title="monkey-walk.svg">
+<img width="36" src="icons/panda.svg" title="panda.svg">
+<img width="36" src="icons/penguin.svg" title="penguin.svg">
+<img width="36" src="icons/pig.svg" title="pig.svg">
+<img width="36" src="icons/raccoon.svg" title="raccoon.svg">
+<img width="36" src="icons/rabbit-grey.svg" title="rabbit-grey.svg">
+<img width="36" src="icons/rabbit-white.svg" title="rabbit-white.svg">
+<img width="36" src="icons/rudolph.svg" title="rudolph.svg">
+<img width="36" src="icons/sloth.svg" title="sloth.svg">
+<img width="36" src="icons/squirrel.svg" title="squirrel.svg">
+<img width="36" src="icons/tapir.svg" title="tapir.svg">
+<img width="36" src="icons/tapir-baby.svg" title="tapir-baby.svg">
+<img width="36" src="icons/tiger.svg" title="tiger.svg">
+<img width="36" src="icons/tiger-walk.svg" title="tiger-walk.svg">
+<img width="36" src="icons/unicorn.svg" title="unicorn.svg">
+<img width="36" src="icons/whale.svg" title="whale.svg">
+<img width="36" src="icons/wombat.svg" title="wombat.svg">
 
 ## Fruits, Vegetables and other Ingredients
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/apple.svg"> | apple.svg |
-| <img width="45" height="45" src="icons/avocado.svg"> | avocado.svg |
-| <img width="45" height="45" src="icons/banana.svg"> | banana.svg |
-| <img width="45" height="45" src="icons/broccoli.svg"> | broccoli.svg |
-| <img width="45" height="45" src="icons/brown-mushroom.svg"> | brown-mushroom.svg |
-| <img width="45" height="45" src="icons/carrot.svg"> | carrot.svg |
-| <img width="45" height="45" src="icons/durian.svg"> | durian.svg |
-| <img width="45" height="45" src="icons/egg.svg"> | egg.svg |
-| <img width="45" height="45" src="icons/kiwifruit.svg"> | kiwifruit.svg |
-| <img width="45" height="45" src="icons/mango.svg"> | mango.svg |
-| <img width="45" height="45" src="icons/mushroom.svg"> | mushroom.svg |
-| <img width="45" height="45" src="icons/pear.svg"> | pear.svg |
-| <img width="45" height="45" src="icons/pineapple.svg"> | pineapple.svg |
-| <img width="45" height="45" src="icons/pumpkin.svg"> | pumpkin.svg |
-| <img width="45" height="45" src="icons/strawberry.svg"> | strawberry.svg |
-| <img width="45" height="45" src="icons/tomato.svg"> | tomato.svg |
-| <img width="45" height="45" src="icons/watermelon.svg"> | watermelon.svg |
+<img width="36" src="icons/apple.svg" title="apple.svg">
+<img width="36" src="icons/avocado.svg" title="avocado.svg">
+<img width="36" src="icons/banana.svg" title="banana.svg">
+<img width="36" src="icons/broccoli.svg" title="broccoli.svg">
+<img width="36" src="icons/brown-mushroom.svg" title="brown-mushroom.svg">
+<img width="36" src="icons/carrot.svg" title="carrot.svg">
+<img width="36" src="icons/durian.svg" title="durian.svg">
+<img width="36" src="icons/egg.svg" title="egg.svg">
+<img width="36" src="icons/kiwifruit.svg" title="kiwifruit.svg">
+<img width="36" src="icons/mango.svg" title="mango.svg">
+<img width="36" src="icons/mushroom.svg" title="mushroom.svg">
+<img width="36" src="icons/pear.svg" title="pear.svg">
+<img width="36" src="icons/pineapple.svg" title="pineapple.svg">
+<img width="36" src="icons/pumpkin.svg" title="pumpkin.svg">
+<img width="36" src="icons/strawberry.svg" title="strawberry.svg">
+<img width="36" src="icons/tomato.svg" title="tomato.svg">
+<img width="36" src="icons/watermelon.svg" title="watermelon.svg">
 
 ## Food and Drinks
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/birthday-cake.svg"> | birthday-cake.svg |
-| <img width="45" height="45" src="icons/bread.svg"> | bread.svg |
-| <img width="45" height="45" src="icons/bubble-tea.svg"> | bubble-tea.svg |
-| <img width="45" height="45" src="icons/burger.svg"> | burger.svg |
-| <img width="45" height="45" src="icons/california-roll.svg"> | california-roll.svg |
-| <img width="45" height="45" src="icons/candycane.svg"> | candycane.svg |
-| <img width="45" height="45" src="icons/coffee.svg"> | coffee.svg |
-| <img width="45" height="45" src="icons/coffee-takeaway.svg"> | coffee-takeaway.svg |
-| <img width="45" height="45" src="icons/cookie.svg"> | cookie.svg |
-| <img width="45" height="45" src="icons/fries.svg"> | fries.svg |
-| <img width="45" height="45" src="icons/gingerbread-man.svg"> | gingerbread-man.svg |
-| <img width="45" height="45" src="icons/gua-bao.svg"> | gua-bao.svg |
-| <img width="45" height="45" src="icons/ice-cream.svg"> | ice-cream.svg |
-| <img width="45" height="45" src="icons/lu-rou-fan.svg"> | lu-rou-fan.svg |
-| <img width="45" height="45" src="icons/mooncake-slice.svg"> | mooncake-slice.svg |
-| <img width="45" height="45" src="icons/mooncake-whole.svg"> | mooncake-whole.svg |
-| <img width="45" height="45" src="icons/nasilemak.svg"> | nasilemak.svg |
-| <img width="45" height="45" src="icons/noodles.svg"> | noodles.svg |
-| <img width="45" height="45" src="icons/onigiri.svg"> | onigiri.svg |
-| <img width="45" height="45" src="icons/pancakes.svg"> | pancakes.svg |
-| <img width="45" height="45" src="icons/pizza-slice.svg"> | pizza-slice.svg |
-| <img width="45" height="45" src="icons/pizza-whole.svg"> | pizza-whole.svg |
-| <img width="45" height="45" src="icons/rice.svg"> | rice.svg |
-| <img width="45" height="45" src="icons/salmon-maki.svg"> | salmon-maki.svg |
-| <img width="45" height="45" src="icons/salmon-nigiri.svg"> | salmon-nigiri.svg |
-| <img width="45" height="45" src="icons/sandwich.svg"> | salmon-nigiri.svg |
-| <img width="45" height="45" src="icons/shortcake.svg"> | shortcake.svg |
-| <img width="45" height="45" src="icons/siumai1.svg"> | siumai1.svg |
-| <img width="45" height="45" src="icons/siumai2.svg"> | siumai2.svg |
-| <img width="45" height="45" src="icons/siumai3.svg"> | siumai3.svg |
-| <img width="45" height="45" src="icons/tamago-nigiri.svg"> | tamago-nigiri.svg |
-| <img width="45" height="45" src="icons/tang-yuan.svg"> | tang-yuan.svg |
-| <img width="45" height="45" src="icons/teacup-chinese.svg"> | teacup-chinese.svg |
-| <img width="45" height="45" src="icons/teacup-white-gold.svg"> | teacup-white-gold.svg |
-| <img width="45" height="45" src="icons/teacup-yixing.svg"> | teacup-yixing.svg |
-| <img width="45" height="45" src="icons/teapot-japanese.svg"> | teapot-japanese.svg |
-| <img width="45" height="45" src="icons/teapot-white-gold.svg"> | teapot-white-gold.svg |
-| <img width="45" height="45" src="icons/teapot-yixing.svg"> | teapot-yixing.svg |
-| <img width="45" height="45" src="icons/tehtarik.svg"> | tehtarik.svg |
-| <img width="45" height="45" src="icons/waffle.svg"> | waffle.svg |
-| <img width="45" height="45" src="icons/wine.svg"> | wine.svg |
-| <img width="45" height="45" src="icons/zongzi.svg"> | zongzi.svg |
+<img width="36" src="icons/birthday-cake.svg" title="birthday-cake.svg">
+<img width="36" src="icons/bread.svg" title="bread.svg">
+<img width="36" src="icons/bubble-tea.svg" title="bubble-tea.svg">
+<img width="36" src="icons/burger.svg" title="burger.svg">
+<img width="36" src="icons/california-roll.svg" title="california-roll.svg">
+<img width="36" src="icons/candycane.svg" title="candycane.svg">
+<img width="36" src="icons/coffee.svg" title="coffee.svg">
+<img width="36" src="icons/coffee-takeaway.svg" title="coffee-takeaway.svg">
+<img width="36" src="icons/cookie.svg" title="cookie.svg">
+<img width="36" src="icons/fries.svg" title="fries.svg">
+<img width="36" src="icons/gingerbread-man.svg" title="gingerbread-man.svg">
+<img width="36" src="icons/gua-bao.svg" title="gua-bao.svg">
+<img width="36" src="icons/ice-cream.svg" title="ice-cream.svg">
+<img width="36" src="icons/lu-rou-fan.svg" title="lu-rou-fan.svg">
+<img width="36" src="icons/mooncake-slice.svg" title="mooncake-slice.svg">
+<img width="36" src="icons/mooncake-whole.svg" title="mooncake-whole.svg">
+<img width="36" src="icons/nasilemak.svg" title="nasilemak.svg">
+<img width="36" src="icons/noodles.svg" title="noodles.svg">
+<img width="36" src="icons/onigiri.svg" title="onigiri.svg">
+<img width="36" src="icons/pancakes.svg" title="pancakes.svg">
+<img width="36" src="icons/pizza-slice.svg" title="pizza-slice.svg">
+<img width="36" src="icons/pizza-whole.svg" title="pizza-whole.svg">
+<img width="36" src="icons/rice.svg" title="rice.svg">
+<img width="36" src="icons/salmon-maki.svg" title="salmon-maki.svg">
+<img width="36" src="icons/salmon-nigiri.svg" title="salmon-nigiri.svg">
+<img width="36" src="icons/sandwich.svg" title="sandwich.svg">
+<img width="36" src="icons/shortcake.svg" title="shortcake.svg">
+<img width="36" src="icons/siumai1.svg" title="siumai1.svg">
+<img width="36" src="icons/siumai2.svg" title="siumai2.svg">
+<img width="36" src="icons/siumai3.svg" title="siumai3.svg">
+<img width="36" src="icons/tamago-nigiri.svg" title="tamago-nigiri.svg">
+<img width="36" src="icons/tang-yuan.svg" title="tang-yuan.svg">
+<img width="36" src="icons/teacup-chinese.svg" title="teacup-chinese.svg">
+<img width="36" src="icons/teacup-white-gold.svg" title="teacup-white-gold.svg">
+<img width="36" src="icons/teacup-yixing.svg" title="teacup-yixing.svg">
+<img width="36" src="icons/teapot-japanese.svg" title="teapot-japanese.svg">
+<img width="36" src="icons/teapot-white-gold.svg" title="teapot-white-gold.svg">
+<img width="36" src="icons/teapot-yixing.svg" title="teapot-yixing.svg">
+<img width="36" src="icons/tehtarik.svg" title="tehtarik.svg">
+<img width="36" src="icons/waffle.svg" title="waffle.svg">
+<img width="36" src="icons/wine.svg" title="wine.svg">
+<img width="36" src="icons/zongzi.svg" title="zongzi.svg">
 
 ## Objects
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/apple-tree.svg"> | apple-tree.svg |
-| <img width="45" height="45" src="icons/basket.svg"> | basket.svg |
-| <img width="45" height="45" src="icons/book.svg"> | book.svg |
-| <img width="45" height="45" src="icons/bookmark.svg"> | bookmark.svg |
-| <img width="45" height="45" src="icons/box.svg"> | box.svg |
-| <img width="45" height="45" src="icons/bus.svg"> | bus.svg |
-| <img width="45" height="45" src="icons/calendar.svg"> | calendar.svg |
-| <img width="45" height="45" src="icons/camera-polaroid.svg"> | camera-polaroid.svg |
-| <img width="45" height="45" src="icons/camera.svg"> | camera.svg |
-| <img width="45" height="45" src="icons/car.svg"> | car.svg |
-| <img width="45" height="45" src="icons/cart.svg"> | cart.svg |
-| <img width="45" height="45" src="icons/christmas-tree.svg"> | christmas-tree.svg |
-| <img width="45" height="45" src="icons/clock.svg"> | clock.svg |
-| <img width="45" height="45" src="icons/cloud.svg"> | cloud.svg |
-| <img width="45" height="45" src="icons/convertible.svg"> | convertible.svg |
-| <img width="45" height="45" src="icons/dancing-man.svg"> | dancing-man.svg |
-| <img width="45" height="45" src="icons/dancing-woman.svg"> | dancing-woman.svg |
-| <img width="45" height="45" src="icons/device-computer.svg"> | device-computer.svg |
-| <img width="45" height="45" src="icons/device-smartphone.svg"> | device-smartphone.svg |
-| <img width="45" height="45" src="icons/device-tablet.svg"> | device-tablet.svg |
-| <img width="45" height="45" src="icons/dollar.svg"> | dollar.svg |
-| <img width="45" height="45" src="icons/earth.svg"> | earth.svg |
-| <img width="45" height="45" src="icons/electric-guitar.svg"> | electric-guitar.svg |
-| <img width="45" height="45" src="icons/game-controller.svg"> | game-controller.svg |
-| <img width="45" height="45" src="icons/ghost.svg"> | ghost.svg |
-| <img width="45" height="45" src="icons/gift.svg"> | gift.svg |
-| <img width="45" height="45" src="icons/guitar.svg"> | guitar.svg |
-| <img width="45" height="45" src="icons/headphones.svg"> | headphones.svg |
-| <img width="45" height="45" src="icons/heart.svg"> | heart.svg |
-| <img width="45" height="45" src="icons/helicopter.svg"> | helicopter.svg |
-| <img width="45" height="45" src="icons/house.svg"> | house.svg |
-| <img width="45" height="45" src="icons/luggage.svg"> | luggage.svg |
-| <img width="45" height="45" src="icons/key.svg"> | key.svg |
-| <img width="45" height="45" src="icons/light-bulb.svg"> | light-bulb.svg |
-| <img width="45" height="45" src="icons/mailbox.svg"> | mailbox.svg |
-| <img width="45" height="45" src="icons/maneki-neko.svg"> | maneki-neko.svg |
-| <img width="45" height="45" src="icons/mirror-ball.svg"> | mirror-ball.svg |
-| <img width="45" height="45" src="icons/mistletoe.svg"> | mistletoe.svg |
-| <img width="45" height="45" src="icons/moon.svg"> | moon.svg |
-| <img width="45" height="45" src="icons/mount-fuji.svg"> | mount-fuji.svg |
-| <img width="45" height="45" src="icons/paper-bag.svg"> | paper-bag.svg |
-| <img width="45" height="45" src="icons/pencil.svg"> | pencil.svg |
-| <img width="45" height="45" src="icons/phone.svg"> | phone.svg |
-| <img width="45" height="45" src="icons/photo.svg"> | photo.svg |
-| <img width="45" height="45" src="icons/picture.svg"> | picture.svg |
-| <img width="45" height="45" src="icons/pin.svg"> | pin.svg |
-| <img width="45" height="45" src="icons/pinata.svg"> | pinata.svg |
-| <img width="45" height="45" src="icons/plane.svg"> | plane.svg |
-| <img width="45" height="45" src="icons/rain.svg"> | rain.svg |
-| <img width="45" height="45" src="icons/rainbow.svg"> | rainbow.svg |
-| <img width="45" height="45" src="icons/ribbon.svg"> | ribbon.svg |
-| <img width="45" height="45" src="icons/robot.svg"> | robot.svg |
-| <img width="45" height="45" src="icons/rose.svg"> | rose.svg |
-| <img width="45" height="45" src="icons/rubber-duck.svg"> | rubber-duck.svg |
-| <img width="45" height="45" src="icons/sakura.svg"> | sakura.svg |
-| <img width="45" height="45" src="icons/sakura-tree.svg"> | sakura-tree.svg |
-| <img width="45" height="45" src="icons/santa-face.svg"> | santa-face.svg |
-| <img width="45" height="45" src="icons/santa.svg"> | santa.svg |
-| <img width="45" height="45" src="icons/ship.svg"> | ship.svg |
-| <img width="45" height="45" src="icons/shop.svg"> | shop.svg |
-| <img width="45" height="45" src="icons/snow.svg"> | snow.svg |
-| <img width="45" height="45" src="icons/snowman.svg"> | snowman.svg |
-| <img width="45" height="45" src="icons/sparkles.svg"> | sparkles.svg |
-| <img width="45" height="45" src="icons/submarine.svg"> | submarine.svg |
-| <img width="45" height="45" src="icons/sun.svg"> | sun.svg |
-| <img width="45" height="45" src="icons/sunglasses.svg"> | sunglasses.svg |
-| <img width="45" height="45" src="icons/truck.svg"> | truck.svg |
-| <img width="45" height="45" src="icons/truck-fast.svg"> | truck-fast.svg |
-| <img width="45" height="45" src="icons/umbrella.svg"> | umbrella.svg |
-| <img width="45" height="45" src="icons/xmas-bell.svg"> | xmas-bell.svg |
-| <img width="45" height="45" src="icons/xmas-stocking.svg"> | xmas-stocking.svg |
-| <img width="45" height="45" src="icons/wreath.svg"> | wreath.svg |
-| <img width="45" height="45" src="icons/yacht.svg"> | yacht.svg |
+<img width="36" src="icons/apple-tree.svg" title="apple-tree.svg">
+<img width="36" src="icons/basket.svg" title="basket.svg">
+<img width="36" src="icons/book.svg" title="book.svg">
+<img width="36" src="icons/bookmark.svg" title="bookmark.svg">
+<img width="36" src="icons/box.svg" title="box.svg">
+<img width="36" src="icons/bus.svg" title="bus.svg">
+<img width="36" src="icons/calendar.svg" title="calendar.svg">
+<img width="36" src="icons/camera-polaroid.svg" title="camera-polaroid.svg">
+<img width="36" src="icons/camera.svg" title="camera.svg">
+<img width="36" src="icons/car.svg" title="car.svg">
+<img width="36" src="icons/cart.svg" title="cart.svg">
+<img width="36" src="icons/christmas-tree.svg" title="christmas-tree.svg">
+<img width="36" src="icons/clock.svg" title="clock.svg">
+<img width="36" src="icons/cloud.svg" title="cloud.svg">
+<img width="36" src="icons/convertible.svg" title="convertible.svg">
+<img width="36" src="icons/dancing-man.svg" title="dancing-man.svg">
+<img width="36" src="icons/dancing-woman.svg" title="dancing-woman.svg">
+<img width="36" src="icons/device-computer.svg" title="device-computer.svg">
+<img width="36" src="icons/device-smartphone.svg" title="device-smartphone.svg">
+<img width="36" src="icons/device-tablet.svg" title="device-tablet.svg">
+<img width="36" src="icons/dollar.svg" title="dollar.svg">
+<img width="36" src="icons/earth.svg" title="earth.svg">
+<img width="36" src="icons/electric-guitar.svg" title="electric-guitar.svg">
+<img width="36" src="icons/game-controller.svg" title="game-controller.svg">
+<img width="36" src="icons/ghost.svg" title="ghost.svg">
+<img width="36" src="icons/gift.svg" title="gift.svg">
+<img width="36" src="icons/guitar.svg" title="guitar.svg">
+<img width="36" src="icons/headphones.svg" title="headphones.svg">
+<img width="36" src="icons/heart.svg" title="heart.svg">
+<img width="36" src="icons/helicopter.svg" title="helicopter.svg">
+<img width="36" src="icons/house.svg" title="house.svg">
+<img width="36" src="icons/luggage.svg" title="luggage.svg">
+<img width="36" src="icons/key.svg" title="key.svg">
+<img width="36" src="icons/light-bulb.svg" title="light-bulb.svg">
+<img width="36" src="icons/mailbox.svg" title="mailbox.svg">
+<img width="36" src="icons/maneki-neko.svg" title="maneki-neko.svg">
+<img width="36" src="icons/mirror-ball.svg" title="mirror-ball.svg">
+<img width="36" src="icons/mistletoe.svg" title="mistletoe.svg">
+<img width="36" src="icons/moon.svg" title="moon.svg">
+<img width="36" src="icons/mount-fuji.svg" title="mount-fuji.svg">
+<img width="36" src="icons/paper-bag.svg" title="paper-bag.svg">
+<img width="36" src="icons/pencil.svg" title="pencil.svg">
+<img width="36" src="icons/phone.svg" title="phone.svg">
+<img width="36" src="icons/photo.svg" title="photo.svg">
+<img width="36" src="icons/picture.svg" title="picture.svg">
+<img width="36" src="icons/pin.svg" title="pin.svg">
+<img width="36" src="icons/pinata.svg" title="pinata.svg">
+<img width="36" src="icons/plane.svg" title="plane.svg">
+<img width="36" src="icons/rain.svg" title="rain.svg">
+<img width="36" src="icons/rainbow.svg" title="rainbow.svg">
+<img width="36" src="icons/ribbon.svg" title="ribbon.svg">
+<img width="36" src="icons/robot.svg" title="robot.svg">
+<img width="36" src="icons/rose.svg" title="rose.svg">
+<img width="36" src="icons/rubber-duck.svg" title="rubber-duck.svg">
+<img width="36" src="icons/sakura.svg" title="sakura.svg">
+<img width="36" src="icons/sakura-tree.svg" title="sakura-tree.svg">
+<img width="36" src="icons/santa-face.svg" title="santa-face.svg">
+<img width="36" src="icons/santa.svg" title="santa.svg">
+<img width="36" src="icons/ship.svg" title="ship.svg">
+<img width="36" src="icons/shop.svg" title="shop.svg">
+<img width="36" src="icons/snow.svg" title="snow.svg">
+<img width="36" src="icons/snowman.svg" title="snowman.svg">
+<img width="36" src="icons/sparkles.svg" title="sparkles.svg">
+<img width="36" src="icons/submarine.svg" title="submarine.svg">
+<img width="36" src="icons/sun.svg" title="sun.svg">
+<img width="36" src="icons/sunglasses.svg" title="sunglasses.svg">
+<img width="36" src="icons/truck.svg" title="truck.svg">
+<img width="36" src="icons/truck-fast.svg" title="truck-fast.svg">
+<img width="36" src="icons/umbrella.svg" title="umbrella.svg">
+<img width="36" src="icons/xmas-bell.svg" title="xmas-bell.svg">
+<img width="36" src="icons/xmas-stocking.svg" title="xmas-stocking.svg">
+<img width="36" src="icons/wreath.svg" title="wreath.svg">
+<img width="36" src="icons/yacht.svg" title="yacht.svg">
 
 ## Logos
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/apple-logo.svg"> | apple-logo.svg |
-| <img width="45" height="45" src="icons/chrome.svg"> | chrome.svg |
-| <img width="45" height="45" src="icons/docker.svg"> | docker.svg |
-| <img width="45" height="45" src="icons/facebook.svg"> | facebook.svg |
-| <img width="45" height="45" src="icons/facebook-detailed.svg"> | facebook-detailed.svg |
-| <img width="45" height="45" src="icons/firefox.svg"> | firefox.svg |
-| <img width="45" height="45" src="icons/github.svg"> | github.svg |
-| <img width="45" height="45" src="icons/github-big.svg"> | github-big.svg |
-| <img width="45" height="45" src="icons/instagram.svg"> | instagram.svg |
-| <img width="45" height="45" src="icons/instagram-detailed.svg"> | instagram-detailed.svg |
-| <img width="45" height="45" src="icons/internet-explorer.svg"> | internet-explorer.svg |
-| <img width="45" height="45" src="icons/linkedin.svg"> | linkedin.svg |
-| <img width="45" height="45" src="icons/microsoft-edge.svg"> | microsoft-edge.svg |
-| <img width="45" height="45" src="icons/reddit.svg"> | reddit.svg |
-| <img width="45" height="45" src="icons/reddit-detailed.svg"> | reddit-detailed.svg |
-| <img width="45" height="45" src="icons/safari.svg"> | safari.svg |
-| <img width="45" height="45" src="icons/spotify.svg"> | spotify.svg |
-| <img width="45" height="45" src="icons/tiktok.svg"> | tiktok.svg |
-| <img width="45" height="45" src="icons/x.svg"> | x.svg |
-| <img width="45" height="45" src="icons/twitter.svg"> | twitter.svg |
-| <img width="45" height="45" src="icons/twitter-detailed.svg"> | twitter-detailed.svg |
-| <img width="45" height="45" src="icons/waze.svg"> | waze.svg |
-| <img width="45" height="45" src="icons/youtube.svg"> | youtube.svg |
+<img width="36" src="icons/apple-logo.svg" title="apple-logo.svg">
+<img width="36" src="icons/chrome.svg" title="chrome.svg">
+<img width="36" src="icons/docker.svg" title="docker.svg">
+<img width="36" src="icons/facebook.svg" title="facebook.svg">
+<img width="36" src="icons/facebook-detailed.svg" title="facebook-detailed.svg">
+<img width="36" src="icons/firefox.svg" title="firefox.svg">
+<img width="36" src="icons/github.svg" title="github.svg">
+<img width="36" src="icons/github-big.svg" title="github-big.svg">
+<img width="36" src="icons/instagram.svg" title="instagram.svg">
+<img width="36" src="icons/instagram-detailed.svg" title="instagram-detailed.svg">
+<img width="36" src="icons/internet-explorer.svg" title="internet-explorer.svg">
+<img width="36" src="icons/linkedin.svg" title="linkedin.svg">
+<img width="36" src="icons/microsoft-edge.svg" title="microsoft-edge.svg">
+<img width="36" src="icons/reddit.svg" title="reddit.svg">
+<img width="36" src="icons/reddit-detailed.svg" title="reddit-detailed.svg">
+<img width="36" src="icons/safari.svg" title="safari.svg">
+<img width="36" src="icons/spotify.svg" title="spotify.svg">
+<img width="36" src="icons/tiktok.svg" title="tiktok.svg">
+<img width="36" src="icons/x.svg" title="x.svg">
+<img width="36" src="icons/twitter.svg" title="twitter.svg">
+<img width="36" src="icons/twitter-detailed.svg" title="twitter-detailed.svg">
+<img width="36" src="icons/waze.svg" title="waze.svg">
+<img width="36" src="icons/youtube.svg" title="youtube.svg">
 
 ## Games
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/ghost-blue.svg"> | ghost-blue.svg |
-| <img width="45" height="45" src="icons/ghost-orange.svg"> | ghost-orange.svg |
-| <img width="45" height="45" src="icons/ghost-pink.svg"> | ghost-pink.svg |
-| <img width="45" height="45" src="icons/ghost-red.svg"> | ghost-red.svg |
-| <img width="45" height="45" src="icons/mario.svg"> | mario.svg |
-| <img width="45" height="45" src="icons/mario-jump.svg"> | mario-jump.svg |
-| <img width="45" height="45" src="icons/pacman.svg"> | pacman.svg |
+<img width="36" src="icons/ghost-blue.svg" title="ghost-blue.svg">
+<img width="36" src="icons/ghost-orange.svg" title="ghost-orange.svg">
+<img width="36" src="icons/ghost-pink.svg" title="ghost-pink.svg">
+<img width="36" src="icons/ghost-red.svg" title="ghost-red.svg">
+<img width="36" src="icons/mario.svg" title="mario.svg">
+<img width="36" src="icons/mario-jump.svg" title="mario-jump.svg">
+<img width="36" src="icons/pacman.svg" title="pacman.svg">
 
 ## Pokemons
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/bulbasaur.svg"> | bulbasaur.svg |
-| <img width="45" height="45" src="icons/charmander.svg"> | charmander.svg |
-| <img width="45" height="45" src="icons/diglett.svg"> | diglett.svg |
-| <img width="45" height="45" src="icons/eevee.svg"> | eevee.svg |
-| <img width="45" height="45" src="icons/jigglypuff.svg"> | jigglypuff.svg |
-| <img width="45" height="45" src="icons/meowth.svg"> | meowth.svg |
-| <img width="45" height="45" src="icons/pikachu.svg"> | pikachu.svg |
-| <img width="45" height="45" src="icons/psyduck.svg"> | psyduck.svg |
-| <img width="45" height="45" src="icons/squirtle.svg"> | squirtle.svg |
+<img width="36" src="icons/bulbasaur.svg" title="bulbasaur.svg">
+<img width="36" src="icons/charmander.svg" title="charmander.svg">
+<img width="36" src="icons/diglett.svg" title="diglett.svg">
+<img width="36" src="icons/eevee.svg" title="eevee.svg">
+<img width="36" src="icons/jigglypuff.svg" title="jigglypuff.svg">
+<img width="36" src="icons/meowth.svg" title="meowth.svg">
+<img width="36" src="icons/pikachu.svg" title="pikachu.svg">
+<img width="36" src="icons/psyduck.svg" title="psyduck.svg">
+<img width="36" src="icons/squirtle.svg" title="squirtle.svg">
 
 ## Memes
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/nyan-cat.svg"> | nyan-cat.svg |
-| <img width="45" height="45" src="icons/spooderman.svg"> | spooderman.svg |
-| <img width="45" height="45" src="icons/rickroll.svg"> | rickroll.svg |
-| <img width="45" height="45" src="icons/sacabambaspis.svg"> | sacabambaspis.svg |
-| <img width="45" height="45" src="icons/sad-pepe.svg"> | sad-pepe.svg |
-| <img width="45" height="45" src="icons/stonks.svg"> | stonks.svg |
-| <img width="45" height="45" src="icons/surprised-pikachu.svg"> | surprised-pikachu.svg |
-| <img width="45" height="45" src="icons/take-my-money.svg"> | take-my-money.svg |
-| <img width="45" height="45" src="icons/this-is-fine.svg"> | this-is-fine.svg |
+<img width="36" src="icons/nyan-cat.svg" title="nyan-cat.svg">
+<img width="36" src="icons/spooderman.svg" title="spooderman.svg">
+<img width="36" src="icons/rickroll.svg" title="rickroll.svg">
+<img width="36" src="icons/sacabambaspis.svg" title="sacabambaspis.svg">
+<img width="36" src="icons/sad-pepe.svg" title="sad-pepe.svg">
+<img width="36" src="icons/stonks.svg" title="stonks.svg">
+<img width="36" src="icons/surprised-pikachu.svg" title="surprised-pikachu.svg">
+<img width="36" src="icons/take-my-money.svg" title="take-my-money.svg">
+<img width="36" src="icons/this-is-fine.svg" title="this-is-fine.svg">
 
 ## UI
 
-| Image | File Name |
-|-------|-----------|
-| <img width="45" height="45" src="icons/align-center.svg"> | align-center.svg |
-| <img width="45" height="45" src="icons/align-justify.svg"> | align-justify.svg |
-| <img width="45" height="45" src="icons/align-left.svg"> | align-left.svg |
-| <img width="45" height="45" src="icons/align-right.svg"> | align-right.svg |
-| <img width="45" height="45" src="icons/arrow-up.svg"> | arrow-up.svg |
-| <img width="45" height="45" src="icons/arrow-down.svg"> | arrow-down.svg |
-| <img width="45" height="45" src="icons/arrow-left.svg"> | arrow-left.svg |
-| <img width="45" height="45" src="icons/arrow-right.svg"> | arrow-right.svg |
-| <img width="45" height="45" src="icons/battery-1-6.svg"> | battery-1-6.svg |
-| <img width="45" height="45" src="icons/battery-2-6.svg"> | battery-2-6.svg |
-| <img width="45" height="45" src="icons/battery-3-6.svg"> | battery-3-6.svg |
-| <img width="45" height="45" src="icons/battery-4-6.svg"> | battery-4-6.svg |
-| <img width="45" height="45" src="icons/battery-5-6.svg"> | battery-5-6.svg |
-| <img width="45" height="45" src="icons/battery-6-6.svg"> | battery-6-6.svg |
-| <img width="45" height="45" src="icons/bell.svg"> | bell.svg |
-| <img width="45" height="45" src="icons/bin.svg"> | bin.svg |
-| <img width="45" height="45" src="icons/bluetooth.svg"> | bluetooth.svg |
-| <img width="45" height="45" src="icons/burger-menu.svg"> | burger-menu.svg |
-| <img width="45" height="45" src="icons/calculator.svg"> | calculator.svg |
-| <img width="45" height="45" src="icons/caret-up.svg"> | caret-up.svg |
-| <img width="45" height="45" src="icons/caret-down.svg"> | caret-down.svg |
-| <img width="45" height="45" src="icons/caret-left.svg"> | caret-left.svg |
-| <img width="45" height="45" src="icons/caret-right.svg"> | caret-right.svg |
-| <img width="45" height="45" src="icons/chart.svg"> | chart.svg |
-| <img width="45" height="45" src="icons/clipboard.svg"> | clipboard.svg |
-| <img width="45" height="45" src="icons/control-panel.svg"> | control-panel.svg |
-| <img width="45" height="45" src="icons/copy.svg"> | copy.svg |
-| <img width="45" height="45" src="icons/edit.svg"> | edit.svg |
-| <img width="45" height="45" src="icons/export.svg"> | export.svg |
-| <img width="45" height="45" src="icons/file-picture.svg"> | file-picture.svg |
-| <img width="45" height="45" src="icons/file-text.svg"> | file-text.svg |
-| <img width="45" height="45" src="icons/file.svg"> | file.svg |
-| <img width="45" height="45" src="icons/folder.svg"> | folder.svg |
-| <img width="45" height="45" src="icons/gear.svg"> | gear.svg |
-| <img width="45" height="45" src="icons/inbox.svg"> | inbox.svg |
-| <img width="45" height="45" src="icons/outbox.svg"> | outbox.svg |
-| <img width="45" height="45" src="icons/light-bulb-on.svg"> | light-bulb-on.svg |
-| <img width="45" height="45" src="icons/light-bulb-off.svg"> | light-bulb-off.svg |
-| <img width="45" height="45" src="icons/lock.svg"> | lock.svg |
-| <img width="45" height="45" src="icons/magnifier.svg"> | magnifier.svg |
-| <img width="45" height="45" src="icons/mail.svg"> | mail.svg |
-| <img width="45" height="45" src="icons/mail-open.svg"> | mail-open.svg |
-| <img width="45" height="45" src="icons/message.svg"> | message.svg |
-| <img width="45" height="45" src="icons/message-typing.svg"> | message-typing.svg |
-| <img width="45" height="45" src="icons/messages.svg"> | messages.svg |
-| <img width="45" height="45" src="icons/microphone.svg"> | microphone.svg |
-| <img width="45" height="45" src="icons/music.svg"> | music.svg |
-| <img width="45" height="45" src="icons/paste.svg"> | paste.svg |
-| <img width="45" height="45" src="icons/printer.svg"> | printer.svg |
-| <img width="45" height="45" src="icons/save.svg"> | save.svg |
-| <img width="45" height="45" src="icons/scissors.svg"> | scissors.svg |
-| <img width="45" height="45" src="icons/star.svg"> | star.svg |
-| <img width="45" height="45" src="icons/star-half.svg"> | star-half.svg |
-| <img width="45" height="45" src="icons/star-empty.svg"> | star-empty.svg |
-| <img width="45" height="45" src="icons/sound-high.svg"> | sound-high.svg |
-| <img width="45" height="45" src="icons/sound-low.svg"> | sound-low.svg |
-| <img width="45" height="45" src="icons/sound-mute.svg"> | sound-mute.svg |
-| <img width="45" height="45" src="icons/thumb-up.svg"> | thumb-up.svg |
-| <img width="45" height="45" src="icons/thumb-down.svg"> | thumb-down.svg |
-| <img width="45" height="45" src="icons/unlock.svg"> | unlock.svg |
-| <img width="45" height="45" src="icons/user.svg"> | user.svg |
-| <img width="45" height="45" src="icons/users.svg"> | users.svg |
-| <img width="45" height="45" src="icons/wifi.svg"> | wifi.svg |
-| <img width="45" height="45" src="icons/wrench.svg"> | wrench.svg |
-| <img width="45" height="45" src="icons/zoom-in.svg"> | zoom-in.svg |
-| <img width="45" height="45" src="icons/zoom-out.svg"> | zoom-out.svg |
+<img width="36" src="icons/align-center.svg" title="align-center.svg">
+<img width="36" src="icons/align-justify.svg" title="align-justify.svg">
+<img width="36" src="icons/align-left.svg" title="align-left.svg">
+<img width="36" src="icons/align-right.svg" title="align-right.svg">
+<img width="36" src="icons/arrow-up.svg" title="arrow-up.svg">
+<img width="36" src="icons/arrow-down.svg" title="arrow-down.svg">
+<img width="36" src="icons/arrow-left.svg" title="arrow-left.svg">
+<img width="36" src="icons/arrow-right.svg" title="arrow-right.svg">
+<img width="36" src="icons/battery-1-6.svg" title="battery-1-6.svg">
+<img width="36" src="icons/battery-2-6.svg" title="battery-2-6.svg">
+<img width="36" src="icons/battery-3-6.svg" title="battery-3-6.svg">
+<img width="36" src="icons/battery-4-6.svg" title="battery-4-6.svg">
+<img width="36" src="icons/battery-5-6.svg" title="battery-5-6.svg">
+<img width="36" src="icons/battery-6-6.svg" title="battery-6-6.svg">
+<img width="36" src="icons/bell.svg" title="bell.svg">
+<img width="36" src="icons/bin.svg" title="bin.svg">
+<img width="36" src="icons/bluetooth.svg" title="bluetooth.svg">
+<img width="36" src="icons/burger-menu.svg" title="burger-menu.svg">
+<img width="36" src="icons/calculator.svg" title="calculator.svg">
+<img width="36" src="icons/caret-up.svg" title="caret-up.svg">
+<img width="36" src="icons/caret-down.svg" title="caret-down.svg">
+<img width="36" src="icons/caret-left.svg" title="caret-left.svg">
+<img width="36" src="icons/caret-right.svg" title="caret-right.svg">
+<img width="36" src="icons/chart.svg" title="chart.svg">
+<img width="36" src="icons/clipboard.svg" title="clipboard.svg">
+<img width="36" src="icons/control-panel.svg" title="control-panel.svg">
+<img width="36" src="icons/copy.svg" title="copy.svg">
+<img width="36" src="icons/edit.svg" title="edit.svg">
+<img width="36" src="icons/export.svg" title="export.svg">
+<img width="36" src="icons/file-picture.svg" title="file-picture.svg">
+<img width="36" src="icons/file-text.svg" title="file-text.svg">
+<img width="36" src="icons/file.svg" title="file.svg">
+<img width="36" src="icons/folder.svg" title="folder.svg">
+<img width="36" src="icons/gear.svg" title="gear.svg">
+<img width="36" src="icons/inbox.svg" title="inbox.svg">
+<img width="36" src="icons/outbox.svg" title="outbox.svg">
+<img width="36" src="icons/light-bulb-on.svg" title="light-bulb-on.svg">
+<img width="36" src="icons/light-bulb-off.svg" title="light-bulb-off.svg">
+<img width="36" src="icons/lock.svg" title="lock.svg">
+<img width="36" src="icons/magnifier.svg" title="magnifier.svg">
+<img width="36" src="icons/mail.svg" title="mail.svg">
+<img width="36" src="icons/mail-open.svg" title="mail-open.svg">
+<img width="36" src="icons/message.svg" title="message.svg">
+<img width="36" src="icons/message-typing.svg" title="message-typing.svg">
+<img width="36" src="icons/messages.svg" title="messages.svg">
+<img width="36" src="icons/microphone.svg" title="microphone.svg">
+<img width="36" src="icons/music.svg" title="music.svg">
+<img width="36" src="icons/paste.svg" title="paste.svg">
+<img width="36" src="icons/printer.svg" title="printer.svg">
+<img width="36" src="icons/save.svg" title="save.svg">
+<img width="36" src="icons/scissors.svg" title="scissors.svg">
+<img width="36" src="icons/star.svg" title="star.svg">
+<img width="36" src="icons/star-half.svg" title="star-half.svg">
+<img width="36" src="icons/star-empty.svg" title="star-empty.svg">
+<img width="36" src="icons/sound-high.svg" title="sound-high.svg">
+<img width="36" src="icons/sound-low.svg" title="sound-low.svg">
+<img width="36" src="icons/sound-mute.svg" title="sound-mute.svg">
+<img width="36" src="icons/thumb-up.svg" title="thumb-up.svg">
+<img width="36" src="icons/thumb-down.svg" title="thumb-down.svg">
+<img width="36" src="icons/unlock.svg" title="unlock.svg">
+<img width="36" src="icons/user.svg" title="user.svg">
+<img width="36" src="icons/users.svg" title="users.svg">
+<img width="36" src="icons/wifi.svg" title="wifi.svg">
+<img width="36" src="icons/wrench.svg" title="wrench.svg">
+<img width="36" src="icons/zoom-in.svg" title="zoom-in.svg">
+<img width="36" src="icons/zoom-out.svg" title="zoom-out.svg">
 
