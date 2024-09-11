@@ -145,6 +145,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/earth.svg" title="earth.svg">
 <img width="36" src="icons/electric-guitar.svg" title="electric-guitar.svg">
 <img width="36" src="icons/fire.svg" title="fire.svg">
+<img width="36" src="icons/fire-engine.svg" title="fire-engine.svg">
 <img width="36" src="icons/game-controller.svg" title="game-controller.svg">
 <img width="36" src="icons/ghost.svg" title="ghost.svg">
 <img width="36" src="icons/gift.svg" title="gift.svg">
@@ -174,6 +175,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/rainbow.svg" title="rainbow.svg">
 <img width="36" src="icons/ribbon.svg" title="ribbon.svg">
 <img width="36" src="icons/robot.svg" title="robot.svg">
+<img width="36" src="icons/rocket.svg" title="rocket.svg">
 <img width="36" src="icons/rose.svg" title="rose.svg">
 <img width="36" src="icons/rubber-duck.svg" title="rubber-duck.svg">
 <img width="36" src="icons/sakura.svg" title="sakura.svg">
