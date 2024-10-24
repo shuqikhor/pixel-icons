@@ -217,6 +217,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/reddit-detailed.svg" title="reddit-detailed.svg">
 <img width="36" src="icons/safari.svg" title="safari.svg">
 <img width="36" src="icons/spotify.svg" title="spotify.svg">
+<img width="36" src="icons/threads.svg" title="threads.svg">
 <img width="36" src="icons/tiktok.svg" title="tiktok.svg">
 <img width="36" src="icons/x.svg" title="x.svg">
 <img width="36" src="icons/twitter.svg" title="twitter.svg">
