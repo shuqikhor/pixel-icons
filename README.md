@@ -155,7 +155,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/heart.svg" title="heart.svg">
 <img width="36" src="icons/helicopter.svg" title="helicopter.svg">
 <img width="36" src="icons/house.svg" title="house.svg">
-<img width="36" src="icons/lightning-bolt.svg" title="lightning-bolt.svg">
+<img width="36" src="icons/lightning-bolt-1.svg" title="lightning-bolt-1.svg">
+<img width="36" src="icons/lightning-bolt-2.svg" title="lightning-bolt-2.svg">
 <img width="36" src="icons/luggage.svg" title="luggage.svg">
 <img width="36" src="icons/key.svg" title="key.svg">
 <img width="36" src="icons/light-bulb.svg" title="light-bulb.svg">
