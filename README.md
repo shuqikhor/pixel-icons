@@ -216,6 +216,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/internet-explorer.svg" title="internet-explorer.svg">
 <img width="36" src="icons/linkedin.svg" title="linkedin.svg">
 <img width="36" src="icons/microsoft-edge.svg" title="microsoft-edge.svg">
+<img width="36" src="icons/notion.svg" title="notion.svg">
 <img width="36" src="icons/reddit.svg" title="reddit.svg">
 <img width="36" src="icons/reddit-detailed.svg" title="reddit-detailed.svg">
 <img width="36" src="icons/safari.svg" title="safari.svg">
