@@ -328,6 +328,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/user.svg" title="user.svg">
 <img width="36" src="icons/users.svg" title="users.svg">
 <img width="36" src="icons/wifi.svg" title="wifi.svg">
+<img width="36" src="icons/window-ui.svg" title="window-ui.svg">
 <img width="36" src="icons/wrench.svg" title="wrench.svg">
 <img width="36" src="icons/zoom-in.svg" title="zoom-in.svg">
 <img width="36" src="icons/zoom-out.svg" title="zoom-out.svg">
