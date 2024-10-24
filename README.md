@@ -139,6 +139,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/dancing-man.svg" title="dancing-man.svg">
 <img width="36" src="icons/dancing-woman.svg" title="dancing-woman.svg">
 <img width="36" src="icons/device-computer.svg" title="device-computer.svg">
+<img width="36" src="icons/device-laptop.svg" title="device-laptop.svg">
 <img width="36" src="icons/device-smartphone.svg" title="device-smartphone.svg">
 <img width="36" src="icons/device-tablet.svg" title="device-tablet.svg">
 <img width="36" src="icons/dollar.svg" title="dollar.svg">

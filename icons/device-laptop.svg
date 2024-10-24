@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-device-laptop">
+	<path fill="#343340" d="M8,7V2H1V7z M2,6V3H7V6z"/>
+	<rect fill="#FFFFFF" x="2" y="3" width="5" height="3"/>
+	<rect fill="#6F6D80" x="0" y="7" width="3" height="1"/>
+	<rect fill="#6F6D80" x="6" y="7" width="3" height="1"/>
+	<rect fill="#A2A1B3" x="3" y="7" width="3" height="1"/>
+</svg>
