@@ -65,6 +65,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/durian.svg" title="durian.svg">
 <img width="36" src="icons/egg.svg" title="egg.svg">
 <img width="36" src="icons/kiwifruit.svg" title="kiwifruit.svg">
+<img width="36" src="icons/lemon.svg" title="lemon.svg">
 <img width="36" src="icons/mango.svg" title="mango.svg">
 <img width="36" src="icons/mushroom.svg" title="mushroom.svg">
 <img width="36" src="icons/pear.svg" title="pear.svg">
@@ -228,6 +229,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/twitter.svg" title="twitter.svg">
 <img width="36" src="icons/twitter-detailed.svg" title="twitter-detailed.svg">
 <img width="36" src="icons/waze.svg" title="waze.svg">
+<img width="36" src="icons/windows-11.svg" title="windows-11.svg">
 <img width="36" src="icons/youtube.svg" title="youtube.svg">
 
 ## Games
