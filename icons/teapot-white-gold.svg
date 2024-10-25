@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-teapot-white-gold">
-	<path fill="#ECEBF7" d="M3,3V4H2V5H1V6H2V7H7V4H6V3z"/>
-	<rect fill="#ECEBF7" x="0" y="4" width="1" height="1"/>
-	<rect fill="#FFCC00" x="4" y="2" width="1" height="1"/>
-	<rect fill="#FFCC00" x="7" y="4" width="1" height="1"/>
-	<rect fill="#FFCC00" x="8" y="5" width="1" height="1"/>
-	<rect fill="#FFCC00" x="7" y="6" width="1" height="1"/>
-	<rect fill="#FFCC00" x="3" y="7" width="3" height="1"/>
+	<path fill="#EBEAF7" d="M3,3V4H2V5H1V6H2V7H7V4H6V3z"/>
+	<rect fill="#EBEAF7" x="0" y="4" width="1" height="1"/>
+	<rect fill="#FFC800" x="4" y="2" width="1" height="1"/>
+	<rect fill="#FFC800" x="7" y="4" width="1" height="1"/>
+	<rect fill="#FFC800" x="8" y="5" width="1" height="1"/>
+	<rect fill="#FFC800" x="7" y="6" width="1" height="1"/>
+	<rect fill="#FFC800" x="3" y="7" width="3" height="1"/>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-notion">
-	<path fill="#343340" d="M0,0V7H1V8H2V9H9V2H8V1H7V0z M7,2H2V1H7z M8,3V8H3V3z"/>
-	<path fill="#343340" d="M4,7H5V5H6V7H7V4H4z"/>
+	<path fill="#343341" d="M0,0V7H1V8H2V9H9V2H8V1H7V0z M7,2H2V1H7z M8,3V8H3V3z"/>
+	<path fill="#343341" d="M4,7H5V5H6V7H7V4H4z"/>
 	<rect fill="#FFFFFF" x="2" y="1" width="5" height="1"/>
 	<path fill="#FFFFFF" d="M8,3H3V8H8z M7,4V7H6V5H5V7H4V4z"/>
 </svg>

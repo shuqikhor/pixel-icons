@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-icons/ghost-red">
-	<path fill="#E64545" d="M2,0V1H1V8H2V7H3V8H4V7H5V8H6V7H7V8H8V1H7V0z M2,4V2H4V4z M5,2H7V4H5z"/>
-	<path fill="#ECEBF7" d="M4,3V2H2V4H3V3z"/>
-	<path fill="#ECEBF7" d="M7,3V2H5V4H6V3z"/>
-	<rect fill="#4236F7" x="3" y="3" width="1" height="1"/>
-	<rect fill="#4236F7" x="6" y="3" width="1" height="1"/>
+	<path fill="#F92F3C" d="M2,0V1H1V8H2V7H3V8H4V7H5V8H6V7H7V8H8V1H7V0z M2,4V2H4V4z M5,2H7V4H5z"/>
+	<path fill="#EBEAF7" d="M4,3V2H2V4H3V3z"/>
+	<path fill="#EBEAF7" d="M7,3V2H5V4H6V3z"/>
+	<rect fill="#4435FF" x="3" y="3" width="1" height="1"/>
+	<rect fill="#4435FF" x="6" y="3" width="1" height="1"/>
 </svg>

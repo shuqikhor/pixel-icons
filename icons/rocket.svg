@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-rocket">
-	<path fill="#ECEBF7" d="M6,2H3V6H6z M4,3H5V4H4z"/>
-	<rect fill="#99CCFF" x="4" y="3" width="1" height="1"/>
-	<path fill="#E64545" d="M3,2H6V1H5V0H4V1H3z"/>
-	<rect fill="#E64545" x="2" y="4" width="1" height="3"/>
-	<rect fill="#E64545" x="6" y="4" width="1" height="3"/>
-	<rect fill="#FFEA00" x="4" y="6" width="1" height="1"/>
-	<rect fill="#FFEA00" x="4" y="8" width="1" height="1"/>
-	<rect fill="#FFCC00" x="4" y="7" width="1" height="1"/>
+	<path fill="#EBEAF7" d="M6,2H3V6H6z M4,3H5V4H4z"/>
+	<rect fill="#89CDFF" x="4" y="3" width="1" height="1"/>
+	<path fill="#F92F3C" d="M3,2H6V1H5V0H4V1H3z"/>
+	<rect fill="#F92F3C" x="2" y="4" width="1" height="3"/>
+	<rect fill="#F92F3C" x="6" y="4" width="1" height="3"/>
+	<rect fill="#FFE800" x="4" y="6" width="1" height="1"/>
+	<rect fill="#FFE800" x="4" y="8" width="1" height="1"/>
+	<rect fill="#FFC800" x="4" y="7" width="1" height="1"/>
 </svg>

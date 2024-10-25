@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-teapot-japanese">
-	<rect fill="#ECEBF7" x="0" y="3" width="1" height="1"/>
-	<path fill="#ECEBF7" d="M3,5H2V4H1V6H2V7H3V8H8V7H9V5H8V4H3z"/>
-	<rect fill="#C98600" x="4" y="1" width="3" height="1"/>
-	<rect fill="#C98600" x="3" y="2" width="1" height="2"/>
-	<rect fill="#C98600" x="7" y="2" width="1" height="2"/>
-	<rect fill="#A2A1B3" x="5" y="3" width="1" height="1"/>
+	<rect fill="#EBEAF7" x="0" y="3" width="1" height="1"/>
+	<path fill="#EBEAF7" d="M3,5H2V4H1V6H2V7H3V8H8V7H9V5H8V4H3z"/>
+	<rect fill="#D38100" x="4" y="1" width="3" height="1"/>
+	<rect fill="#D38100" x="3" y="2" width="1" height="2"/>
+	<rect fill="#D38100" x="7" y="2" width="1" height="2"/>
+	<rect fill="#A1A0B4" x="5" y="3" width="1" height="1"/>
 </svg>

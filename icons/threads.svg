@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-threads">
-	<rect fill="#343340" x="3" y="0" width="3" height="1"/>
-	<rect fill="#343340" x="2" y="1" width="1" height="1"/>
-	<rect fill="#343340" x="6" y="1" width="1" height="1"/>
-	<rect fill="#343340" x="1" y="2" width="1" height="5"/>
-	<rect fill="#343340" x="4" y="2" width="1" height="1"/>
-	<rect fill="#343340" x="7" y="2" width="1" height="1"/>
-	<path fill="#343340" d="M4,5H5V6H6V5H7V4H6V3H5V4H4z"/>
-	<rect fill="#343340" x="3" y="5" width="1" height="1"/>
-	<rect fill="#343340" x="7" y="5" width="1" height="2"/>
-	<rect fill="#343340" x="4" y="6" width="1" height="1"/>
-	<rect fill="#343340" x="2" y="7" width="1" height="1"/>
-	<rect fill="#343340" x="6" y="7" width="1" height="1"/>
-	<rect fill="#343340" x="3" y="8" width="3" height="1"/>
+	<rect fill="#343341" x="3" y="0" width="3" height="1"/>
+	<rect fill="#343341" x="2" y="1" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="1" width="1" height="1"/>
+	<rect fill="#343341" x="1" y="2" width="1" height="5"/>
+	<rect fill="#343341" x="4" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="7" y="2" width="1" height="1"/>
+	<path fill="#343341" d="M4,5H5V6H6V5H7V4H6V3H5V4H4z"/>
+	<rect fill="#343341" x="3" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="7" y="5" width="1" height="2"/>
+	<rect fill="#343341" x="4" y="6" width="1" height="1"/>
+	<rect fill="#343341" x="2" y="7" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="7" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="8" width="3" height="1"/>
 </svg>
