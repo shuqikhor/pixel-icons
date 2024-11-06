@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-photoshop">
+	<path fill="#001E36" d="M1,1V8H8V1z M5,2V4H4V5H3V7H2V2z M6,6V7H5V6z M6,4V5H5V4z M7,5V6H6V5z M6,3H7V4H6z"/>
+	<rect fill="#001E36" x="3" y="3" width="1" height="1"/>
+	<path fill="#31A8FF" d="M2,7H3V5H4V4H5V2H2z M3,4V3H4V4z"/>
+	<rect fill="#31A8FF" x="6" y="3" width="1" height="1"/>
+	<rect fill="#31A8FF" x="5" y="4" width="1" height="1"/>
+	<rect fill="#31A8FF" x="6" y="5" width="1" height="1"/>
+	<rect fill="#31A8FF" x="5" y="6" width="1" height="1"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-illustrator">
+	<path fill="#330000" d="M1,1V8H8V1z M3,2H4V3H5V7H4V6H3V7H2V3H3z M6,3H7V4H6z M6,5H7V7H6z"/>
+	<rect fill="#330000" x="3" y="4" width="1" height="1"/>
+	<path fill="#FF9A00" d="M5,3H4V2H3V3H2V7H3V6H4V7H5z M4,4V5H3V4z"/>
+	<rect fill="#FF9A00" x="6" y="3" width="1" height="1"/>
+	<rect fill="#FF9A00" x="6" y="5" width="1" height="2"/>
+</svg>

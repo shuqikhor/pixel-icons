@@ -207,20 +207,26 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 
 ## Logos
 \
+<img width="36" src="icons/after-effects.svg" title="after-effects.svg">
 <img width="36" src="icons/apple-logo.svg" title="apple-logo.svg">
 <img width="36" src="icons/chrome.svg" title="chrome.svg">
 <img width="36" src="icons/docker.svg" title="docker.svg">
 <img width="36" src="icons/facebook.svg" title="facebook.svg">
 <img width="36" src="icons/facebook-detailed.svg" title="facebook-detailed.svg">
+<img width="36" src="icons/figma.svg" title="figma.svg">
 <img width="36" src="icons/firefox.svg" title="firefox.svg">
 <img width="36" src="icons/github.svg" title="github.svg">
 <img width="36" src="icons/github-big.svg" title="github-big.svg">
+<img width="36" src="icons/illustrator.svg" title="illustrator.svg">
 <img width="36" src="icons/instagram.svg" title="instagram.svg">
 <img width="36" src="icons/instagram-detailed.svg" title="instagram-detailed.svg">
 <img width="36" src="icons/internet-explorer.svg" title="internet-explorer.svg">
+<img width="36" src="icons/lightroom.svg" title="lightroom.svg">
 <img width="36" src="icons/linkedin.svg" title="linkedin.svg">
 <img width="36" src="icons/microsoft-edge.svg" title="microsoft-edge.svg">
 <img width="36" src="icons/notion.svg" title="notion.svg">
+<img width="36" src="icons/photoshop.svg" title="photoshop.svg">
+<img width="36" src="icons/procreate.svg" title="procreate.svg">
 <img width="36" src="icons/reddit.svg" title="reddit.svg">
 <img width="36" src="icons/reddit-detailed.svg" title="reddit-detailed.svg">
 <img width="36" src="icons/safari.svg" title="safari.svg">

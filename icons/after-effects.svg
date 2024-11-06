@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-after-effects">
+	<path fill="#00005B" d="M1,1V8H8V1z M3,2H4V3H5V4H7V5H6V6H5V7H4V6H3V7H2V3H3z M7,6V7H6V6z"/>
+	<rect fill="#00005B" x="3" y="4" width="1" height="1"/>
+	<path fill="#9999FF" d="M2,7H3V6H4V7H5V6H6V5H7V4H5V3H4V2H3V3H2z M4,4V5H3V4z"/>
+	<rect fill="#9999FF" x="6" y="6" width="1" height="1"/>
+</svg>
