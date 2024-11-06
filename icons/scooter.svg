@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-scooter">
+	<path fill="#89CDFF" d="M8,2H7V4H6V5H4V4H1V5H0V6H3V7H4V6H9V5H8z"/>
+	<rect fill="#343341" x="6" y="1" width="1" height="1"/>
+	<rect fill="#343341" x="1" y="3" width="4" height="1"/>
+	<rect fill="#343341" x="0" y="6" width="1" height="1"/>
+	<rect fill="#343341" x="2" y="6" width="1" height="1"/>
+	<rect fill="#343341" x="6" y="6" width="1" height="1"/>
+	<rect fill="#343341" x="8" y="6" width="1" height="1"/>
+	<rect fill="#343341" x="1" y="7" width="1" height="1"/>
+	<rect fill="#343341" x="7" y="7" width="1" height="1"/>
+	<rect fill="#FFE800" x="8" y="2" width="1" height="1"/>
+	<rect fill="#EBEAF7" x="1" y="6" width="1" height="1"/>
+	<rect fill="#EBEAF7" x="7" y="6" width="1" height="1"/>
+</svg>

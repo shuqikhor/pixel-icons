@@ -139,6 +139,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/convertible.svg" title="convertible.svg">
 <img width="36" src="icons/dancing-man.svg" title="dancing-man.svg">
 <img width="36" src="icons/dancing-woman.svg" title="dancing-woman.svg">
+<img width="36" src="icons/delivery.svg" title="delivery.svg">
 <img width="36" src="icons/device-computer.svg" title="device-computer.svg">
 <img width="36" src="icons/device-laptop.svg" title="device-laptop.svg">
 <img width="36" src="icons/device-smartphone.svg" title="device-smartphone.svg">
@@ -187,6 +188,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/sakura-tree.svg" title="sakura-tree.svg">
 <img width="36" src="icons/santa-face.svg" title="santa-face.svg">
 <img width="36" src="icons/santa.svg" title="santa.svg">
+<img width="36" src="icons/scooter.svg" title="scooter.svg">
 <img width="36" src="icons/ship.svg" title="ship.svg">
 <img width="36" src="icons/shop.svg" title="shop.svg">
 <img width="36" src="icons/snow.svg" title="snow.svg">
