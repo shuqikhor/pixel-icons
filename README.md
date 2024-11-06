@@ -217,6 +217,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/firefox.svg" title="firefox.svg">
 <img width="36" src="icons/github.svg" title="github.svg">
 <img width="36" src="icons/github-big.svg" title="github-big.svg">
+<img width="36" src="icons/indesign.svg" title="indesign.svg">
 <img width="36" src="icons/illustrator.svg" title="illustrator.svg">
 <img width="36" src="icons/instagram.svg" title="instagram.svg">
 <img width="36" src="icons/instagram-detailed.svg" title="instagram-detailed.svg">

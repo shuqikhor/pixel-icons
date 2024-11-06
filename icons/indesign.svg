@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-indesign">
+	<path fill="#49021F" d="M1,1V8H8V1z M3,7H2V2H3z M6,4V2H7V7H4V4z"/>
+	<rect fill="#49021F" x="5" y="5" width="1" height="1"/>
+	<rect fill="#FF3366" x="2" y="2" width="1" height="5"/>
+	<path fill="#FF3366" d="M4,7H7V2H6V4H4z M6,5V6H5V5z"/>
+</svg>
