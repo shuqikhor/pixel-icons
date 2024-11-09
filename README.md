@@ -21,6 +21,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/cat-white.svg" title="cat-white.svg">
 <img width="36" src="icons/clownfish.svg" title="clownfish.svg">
 <img width="36" src="icons/cow.svg" title="cow.svg">
+<img width="36" src="icons/crab.svg" title="crab.svg">
 <img width="36" src="icons/dog.svg" title="dog.svg">
 <img width="36" src="icons/dog-beagle.svg" title="dog-beagle.svg">
 <img width="36" src="icons/dog-shiba.svg" title="dog-shiba.svg">
@@ -37,6 +38,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/monkey.svg" title="monkey.svg">
 <img width="36" src="icons/monkey-love.svg" title="monkey-love.svg">
 <img width="36" src="icons/monkey-walk.svg" title="monkey-walk.svg">
+<img width="36" src="icons/owl-1.svg" title="owl-1.svg">
+<img width="36" src="icons/owl-2.svg" title="owl-2.svg">
 <img width="36" src="icons/panda.svg" title="panda.svg">
 <img width="36" src="icons/penguin.svg" title="penguin.svg">
 <img width="36" src="icons/pig.svg" title="pig.svg">
