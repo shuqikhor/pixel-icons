@@ -47,6 +47,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/rabbit-grey.svg" title="rabbit-grey.svg">
 <img width="36" src="icons/rabbit-white.svg" title="rabbit-white.svg">
 <img width="36" src="icons/rudolph.svg" title="rudolph.svg">
+<img width="36" src="icons/sheep.svg" title="sheep.svg">
 <img width="36" src="icons/sloth.svg" title="sloth.svg">
 <img width="36" src="icons/squirrel.svg" title="squirrel.svg">
 <img width="36" src="icons/tapir.svg" title="tapir.svg">

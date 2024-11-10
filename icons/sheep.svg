@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-sheep">
+	<path fill="#EBEAF7" d="M1,3H5V2H4V1H2V2H1z"/>
+	<path fill="#EBEAF7" d="M8,7V6H9V4H8V3H5V4H4V5H2V7z"/>
+	<path fill="#FFE4C2" d="M2,4H1V5H4V4H3V3H2z"/>
+	<rect fill="#FFE4C2" x="2" y="7" width="1" height="1"/>
+	<rect fill="#FFE4C2" x="4" y="7" width="1" height="1"/>
+	<rect fill="#FFE4C2" x="7" y="7" width="1" height="1"/>
+	<rect fill="#343341" x="1" y="3" width="1" height="1"/>
+	<rect fill="#343341" x="3" y="3" width="1" height="1"/>
+	<rect fill="#FFD6D7" x="0" y="3" width="1" height="1"/>
+	<rect fill="#FFD6D7" x="4" y="3" width="1" height="1"/>
+</svg>
