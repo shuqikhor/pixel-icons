@@ -80,6 +80,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 
 ## Food and Drinks
 \
+<img width="36" src="icons/beer.svg" title="beer.svg">
 <img width="36" src="icons/birthday-cake.svg" title="birthday-cake.svg">
 <img width="36" src="icons/bread.svg" title="bread.svg">
 <img width="36" src="icons/bubble-tea.svg" title="bubble-tea.svg">
