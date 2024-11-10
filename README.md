@@ -142,6 +142,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/clock.svg" title="clock.svg">
 <img width="36" src="icons/cloud.svg" title="cloud.svg">
 <img width="36" src="icons/convertible.svg" title="convertible.svg">
+<img width="36" src="icons/credit-card.svg" title="credit-card.svg">
 <img width="36" src="icons/dancing-man.svg" title="dancing-man.svg">
 <img width="36" src="icons/dancing-woman.svg" title="dancing-woman.svg">
 <img width="36" src="icons/delivery.svg" title="delivery.svg">

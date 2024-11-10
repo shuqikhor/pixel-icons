@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-credit-card">
+	<rect fill="#EBEAF7" x="1" y="2" width="7" height="1"/>
+	<path fill="#EBEAF7" d="M1,4V7H8V4z M4,5V6H2V5z"/>
+	<rect fill="#DA2934" x="2" y="5" width="1" height="1"/>
+	<rect fill="#FFC800" x="3" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="1" y="3" width="7" height="1"/>
+</svg>
