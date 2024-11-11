@@ -132,6 +132,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/book.svg" title="book.svg">
 <img width="36" src="icons/bookmark.svg" title="bookmark.svg">
 <img width="36" src="icons/box.svg" title="box.svg">
+<img width="36" src="icons/briefcase.svg" title="briefcase.svg">
 <img width="36" src="icons/bus.svg" title="bus.svg">
 <img width="36" src="icons/calendar.svg" title="calendar.svg">
 <img width="36" src="icons/camera-polaroid.svg" title="camera-polaroid.svg">
