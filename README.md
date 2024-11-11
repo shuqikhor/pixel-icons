@@ -285,6 +285,8 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 
 ## UI
 \
+<img width="36" src="icons/alert-circle.svg" title="alert-circle.svg">
+<img width="36" src="icons/alert-triangle.svg" title="alert-triangle.svg">
 <img width="36" src="icons/align-center.svg" title="align-center.svg">
 <img width="36" src="icons/align-justify.svg" title="align-justify.svg">
 <img width="36" src="icons/align-left.svg" title="align-left.svg">
