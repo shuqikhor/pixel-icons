@@ -329,6 +329,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/magnifier.svg" title="magnifier.svg">
 <img width="36" src="icons/mail.svg" title="mail.svg">
 <img width="36" src="icons/mail-open.svg" title="mail-open.svg">
+<img width="36" src="icons/map.svg" title="map.svg">
 <img width="36" src="icons/message.svg" title="message.svg">
 <img width="36" src="icons/message-typing.svg" title="message-typing.svg">
 <img width="36" src="icons/messages.svg" title="messages.svg">
