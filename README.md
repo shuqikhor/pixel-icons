@@ -208,9 +208,10 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/truck.svg" title="truck.svg">
 <img width="36" src="icons/truck-fast.svg" title="truck-fast.svg">
 <img width="36" src="icons/umbrella.svg" title="umbrella.svg">
+<img width="36" src="icons/wind.svg" title="wind.svg">
+<img width="36" src="icons/wreath.svg" title="wreath.svg">
 <img width="36" src="icons/xmas-bell.svg" title="xmas-bell.svg">
 <img width="36" src="icons/xmas-stocking.svg" title="xmas-stocking.svg">
-<img width="36" src="icons/wreath.svg" title="wreath.svg">
 <img width="36" src="icons/yacht.svg" title="yacht.svg">
 
 ## Logos
