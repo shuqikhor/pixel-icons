@@ -11,6 +11,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/alpaca.svg" title="alpaca.svg">
 <img width="36" src="icons/bear.svg" title="bear.svg">
 <img width="36" src="icons/bee.svg" title="bee.svg">
+<img width="36" src="icons/bee-side.svg" title="bee-side.svg">
 <img width="36" src="icons/bug.svg" title="bug.svg">
 <img width="36" src="icons/capybara.svg" title="capybara.svg">
 <img width="36" src="icons/cat.svg" title="cat.svg">
