@@ -77,6 +77,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/mushroom.svg" title="mushroom.svg">
 <img width="36" src="icons/pear.svg" title="pear.svg">
 <img width="36" src="icons/pineapple.svg" title="pineapple.svg">
+<img width="36" src="icons/popcorn.svg" title="popcorn.svg">
 <img width="36" src="icons/pumpkin.svg" title="pumpkin.svg">
 <img width="36" src="icons/strawberry.svg" title="strawberry.svg">
 <img width="36" src="icons/tomato.svg" title="tomato.svg">

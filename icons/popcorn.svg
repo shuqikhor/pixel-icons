@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-popcorn">
+	<rect fill="#EBEAF7" x="3" y="3" width="1" height="5"/>
+	<rect fill="#EBEAF7" x="5" y="3" width="1" height="5"/>
+	<rect fill="#F92F3C" x="2" y="3" width="1" height="5"/>
+	<rect fill="#F92F3C" x="4" y="3" width="1" height="5"/>
+	<rect fill="#F92F3C" x="6" y="3" width="1" height="5"/>
+	<rect fill="#FCF4AC" x="5" y="0" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="3" y="1" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="2" y="2" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="4" y="2" width="1" height="1"/>
+	<rect fill="#FFE800" x="3" y="0" width="1" height="1"/>
+	<rect fill="#FFE800" x="6" y="1" width="1" height="1"/>
+	<rect fill="#FFE800" x="5" y="2" width="1" height="1"/>
+	<rect fill="#FFC800" x="2" y="1" width="1" height="1"/>
+	<rect fill="#FFC800" x="4" y="1" width="1" height="1"/>
+	<rect fill="#FFC800" x="3" y="2" width="1" height="1"/>
+	<rect fill="#FFC800" x="6" y="2" width="1" height="1"/>
+	<rect fill="#FFB100" x="4" y="0" width="1" height="1"/>
+	<rect fill="#FFB100" x="5" y="1" width="1" height="1"/>
+</svg>
