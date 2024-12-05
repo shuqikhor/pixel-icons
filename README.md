@@ -91,6 +91,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/bubble-tea.svg" title="bubble-tea.svg">
 <img width="36" src="icons/burger.svg" title="burger.svg">
 <img width="36" src="icons/california-roll.svg" title="california-roll.svg">
+<img width="36" src="icons/candy.svg" title="candy.svg">
 <img width="36" src="icons/candycane.svg" title="candycane.svg">
 <img width="36" src="icons/coffee.svg" title="coffee.svg">
 <img width="36" src="icons/coffee-takeaway.svg" title="coffee-takeaway.svg">
