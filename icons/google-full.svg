@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-google-full">
+	<rect fill="#4285F4" x="2" y="3" width="1" height="1"/>
+	<path fill="#4285F4" d="M2,4H1V6H3V5H2z"/>
+	<rect fill="#4285F4" x="5" y="5" width="1" height="2"/>
+	<rect fill="#EA4335" x="3" y="5" width="1" height="1"/>
+	<rect fill="#EA4335" x="7" y="5" width="1" height="1"/>
+	<rect fill="#FBBC05" x="4" y="5" width="1" height="1"/>
+	<rect fill="#34A853" x="6" y="4" width="1" height="2"/>
+</svg>

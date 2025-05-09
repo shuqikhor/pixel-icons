@@ -222,14 +222,20 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 \
 <img width="36" src="icons/after-effects.svg" title="after-effects.svg">
 <img width="36" src="icons/apple-logo.svg" title="apple-logo.svg">
+<img width="36" src="icons/chatgpt.svg" title="chatgpt.svg">
 <img width="36" src="icons/chrome.svg" title="chrome.svg">
+<img width="36" src="icons/claude.svg" title="claude.svg">
 <img width="36" src="icons/docker.svg" title="docker.svg">
 <img width="36" src="icons/facebook.svg" title="facebook.svg">
 <img width="36" src="icons/facebook-detailed.svg" title="facebook-detailed.svg">
 <img width="36" src="icons/figma.svg" title="figma.svg">
 <img width="36" src="icons/firefox.svg" title="firefox.svg">
+<img width="36" src="icons/gemini.svg" title="gemini.svg">
 <img width="36" src="icons/github.svg" title="github.svg">
 <img width="36" src="icons/github-big.svg" title="github-big.svg">
+<img width="36" src="icons/google.svg" title="google.svg">
+<img width="36" src="icons/google-full.svg" title="google-full.svg">
+<img width="36" src="icons/google-maps.svg" title="google-maps.svg">
 <img width="36" src="icons/indesign.svg" title="indesign.svg">
 <img width="36" src="icons/illustrator.svg" title="illustrator.svg">
 <img width="36" src="icons/instagram.svg" title="instagram.svg">
@@ -239,6 +245,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/linkedin.svg" title="linkedin.svg">
 <img width="36" src="icons/microsoft-edge.svg" title="microsoft-edge.svg">
 <img width="36" src="icons/notion.svg" title="notion.svg">
+<img width="36" src="icons/paypal.svg" title="paypal.svg">
 <img width="36" src="icons/photoshop.svg" title="photoshop.svg">
 <img width="36" src="icons/procreate.svg" title="procreate.svg">
 <img width="36" src="icons/reddit.svg" title="reddit.svg">
