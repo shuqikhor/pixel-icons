@@ -33,6 +33,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/elephant.svg" title="elephant.svg">
 <img width="36" src="icons/fish.svg" title="fish.svg">
 <img width="36" src="icons/fox.svg" title="fox.svg">
+<img width="36" src="icons/frog.svg" title="frog.svg">
 <img width="36" src="icons/horse.svg" title="horse.svg">
 <img width="36" src="icons/koala.svg" title="koala.svg">
 <img width="36" src="icons/koala-hug.svg" title="koala-hug.svg">
