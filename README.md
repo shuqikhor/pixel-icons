@@ -100,6 +100,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/gingerbread-man.svg" title="gingerbread-man.svg">
 <img width="36" src="icons/gua-bao.svg" title="gua-bao.svg">
 <img width="36" src="icons/ice-cream.svg" title="ice-cream.svg">
+<img width="36" src="icons/lollipop.svg" title="lollipop.svg">
 <img width="36" src="icons/lu-rou-fan.svg" title="lu-rou-fan.svg">
 <img width="36" src="icons/mooncake-slice.svg" title="mooncake-slice.svg">
 <img width="36" src="icons/mooncake-whole.svg" title="mooncake-whole.svg">

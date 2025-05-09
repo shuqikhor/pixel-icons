@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-lollipop">
+	<path fill="#9F65FF" d="M3,0V1H2V2H5V1H6V0z"/>
+	<rect fill="#9F65FF" x="6" y="1" width="1" height="1"/>
+	<rect fill="#9F65FF" x="1" y="2" width="1" height="3"/>
+	<rect fill="#9F65FF" x="5" y="2" width="1" height="2"/>
+	<rect fill="#9F65FF" x="7" y="2" width="1" height="3"/>
+	<path fill="#9F65FF" d="M4,3H3V5H5V4H4z"/>
+	<rect fill="#9F65FF" x="2" y="5" width="1" height="1"/>
+	<rect fill="#9F65FF" x="6" y="5" width="1" height="1"/>
+	<rect fill="#9F65FF" x="3" y="6" width="3" height="1"/>
+	<rect fill="#FFAEB0" x="5" y="1" width="1" height="1"/>
+	<path fill="#FFAEB0" d="M3,3H4V4H5V2H2V5H3z"/>
+	<path fill="#FFAEB0" d="M6,4H5V5H3V6H6V5H7V2H6z"/>
+	<rect fill="#EBEAF7" x="4" y="7" width="1" height="2"/>
+</svg>
