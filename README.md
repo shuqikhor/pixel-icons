@@ -276,13 +276,21 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 \
 <img width="36" src="icons/bulbasaur.svg" title="bulbasaur.svg">
 <img width="36" src="icons/charmander.svg" title="charmander.svg">
+<img width="36" src="icons/chikorita.svg" title="chikorita.svg">
+<img width="36" src="icons/cyndaquil.svg" title="cyndaquil.svg">
 <img width="36" src="icons/diglett.svg" title="diglett.svg">
 <img width="36" src="icons/eevee.svg" title="eevee.svg">
 <img width="36" src="icons/jigglypuff.svg" title="jigglypuff.svg">
+<img width="36" src="icons/lapras.svg" title="lapras.svg">
+<img width="36" src="icons/magikarp.svg" title="magikarp.svg">
 <img width="36" src="icons/meowth.svg" title="meowth.svg">
+<img width="36" src="icons/pichu.svg" title="pichu.svg">
 <img width="36" src="icons/pikachu.svg" title="pikachu.svg">
+<img width="36" src="icons/piplup.svg" title="piplup.svg">
 <img width="36" src="icons/psyduck.svg" title="psyduck.svg">
+<img width="36" src="icons/slowpoke.svg" title="slowpoke.svg">
 <img width="36" src="icons/squirtle.svg" title="squirtle.svg">
+<img width="36" src="icons/totodile.svg" title="totodile.svg">
 
 ## Memes
 \

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-piplup">
+	<rect fill="#4DA5FF" x="3" y="1" width="3" height="1"/>
+	<rect fill="#4DA5FF" x="2" y="2" width="1" height="2"/>
+	<rect fill="#4DA5FF" x="6" y="2" width="1" height="2"/>
+	<rect fill="#4DA5FF" x="3" y="4" width="3" height="1"/>
+	<path fill="#4DA5FF" d="M6,7H8V6H7V5H6z"/>
+	<rect fill="#FFFFFF" x="3" y="3" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="5" y="3" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="3" y="5" width="1" height="1"/>
+	<rect fill="#FFFFFF" x="5" y="5" width="1" height="1"/>
+	<rect fill="#FFE800" x="4" y="3" width="1" height="1"/>
+	<rect fill="#FFE800" x="3" y="7" width="1" height="1"/>
+	<rect fill="#FFE800" x="5" y="7" width="1" height="1"/>
+	<rect fill="#D0EAFF" x="4" y="2" width="1" height="1"/>
+	<rect fill="#D0EAFF" x="2" y="5" width="1" height="1"/>
+	<path fill="#D0EAFF" d="M4,6H3V7H6V6H5V5H4z"/>
+	<rect fill="#343341" x="3" y="2" width="1" height="1"/>
+	<rect fill="#343341" x="5" y="2" width="1" height="1"/>
+</svg>

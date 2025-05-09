@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-cyndaquil">
+	<path fill="#FFE4C2" d="M5,2H4V3H3V2H2V3H0V4H2V8H3V7H5V8H6V5H5z"/>
+	<rect fill="#343341" x="3" y="2" width="1" height="1"/>
+	<rect fill="#2B676F" x="2" y="1" width="3" height="1"/>
+	<rect fill="#2B676F" x="0" y="2" width="2" height="1"/>
+	<rect fill="#2B676F" x="5" y="2" width="1" height="3"/>
+	<rect fill="#2B676F" x="6" y="5" width="1" height="2"/>
+	<path fill="#FFE800" d="M7,3H6V5H8V4H7z"/>
+	<rect fill="#FF8D00" x="7" y="2" width="1" height="1"/>
+	<rect fill="#FF8D00" x="8" y="4" width="1" height="1"/>
+	<rect fill="#FF8D00" x="7" y="5" width="1" height="1"/>
+	<rect fill="#FF8D00" x="8" y="6" width="1" height="1"/>
+</svg>

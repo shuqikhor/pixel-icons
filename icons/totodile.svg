@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-totodile">
+	<path fill="#89CDFF" d="M6,4V2H5V1H3V2H1V4H4V5H5V4z M5,2V3H4V2z"/>
+	<path fill="#89CDFF" d="M5,6H4V5H2V6H3V8H4V7H5V8H6V7H8V6H6V5H5z"/>
+	<rect fill="#89CDFF" x="8" y="5" width="1" height="1"/>
+	<rect fill="#FFE800" x="3" y="4" width="1" height="1"/>
+	<rect fill="#FFE800" x="5" y="4" width="1" height="1"/>
+	<rect fill="#FFE800" x="4" y="5" width="1" height="1"/>
+	<rect fill="#343341" x="4" y="2" width="1" height="1"/>
+	<rect fill="#DA2934" x="6" y="3" width="1" height="1"/>
+	<rect fill="#DA2934" x="6" y="5" width="1" height="1"/>
+</svg>
