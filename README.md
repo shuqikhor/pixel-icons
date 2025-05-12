@@ -276,6 +276,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 ## Pokemons
 \
 <img width="36" src="icons/bulbasaur.svg" title="bulbasaur.svg">
+<img width="36" src="icons/chansey.svg" title="chansey.svg">
 <img width="36" src="icons/charmander.svg" title="charmander.svg">
 <img width="36" src="icons/chikorita.svg" title="chikorita.svg">
 <img width="36" src="icons/cyndaquil.svg" title="cyndaquil.svg">
