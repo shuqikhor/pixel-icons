@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 9" class="pixelicon-triceratops">
+	<path fill="#FF8D00" d="M5,7V8H6V7H7V8H8V7H9V6H8V5H6V2H4V3H2V5H1V6H3V8H4V7z M3,4H4V5H3z"/>
+	<rect fill="#343341" x="3" y="4" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="0" y="1" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="4" y="1" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="1" y="2" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="3" y="2" width="1" height="1"/>
+	<rect fill="#FCF4AC" x="0" y="4" width="1" height="1"/>
+</svg>

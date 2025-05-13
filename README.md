@@ -63,6 +63,13 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/whale.svg" title="whale.svg">
 <img width="36" src="icons/wombat.svg" title="wombat.svg">
 
+## Dinosaurs
+\
+<img width="36" src="icons/sauropod.svg" title="sauropod.svg">
+<img width="36" src="icons/stegosaurus.svg" title="stegosaurus.svg">
+<img width="36" src="icons/t-rex.svg" title="t-rex.svg">
+<img width="36" src="icons/triceratops.svg" title="triceratops.svg">
+
 ## Fruits, Vegetables and other Ingredients
 \
 <img width="36" src="icons/apple.svg" title="apple.svg">
