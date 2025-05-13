@@ -58,6 +58,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/tapir-baby.svg" title="tapir-baby.svg">
 <img width="36" src="icons/tiger.svg" title="tiger.svg">
 <img width="36" src="icons/tiger-walk.svg" title="tiger-walk.svg">
+<img width="36" src="icons/tortoise.svg" title="tortoise.svg">
 <img width="36" src="icons/unicorn.svg" title="unicorn.svg">
 <img width="36" src="icons/whale.svg" title="whale.svg">
 <img width="36" src="icons/wombat.svg" title="wombat.svg">
@@ -70,8 +71,10 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/broccoli.svg" title="broccoli.svg">
 <img width="36" src="icons/brown-mushroom.svg" title="brown-mushroom.svg">
 <img width="36" src="icons/carrot.svg" title="carrot.svg">
+<img width="36" src="icons/cherry.svg" title="cherry.svg">
 <img width="36" src="icons/durian.svg" title="durian.svg">
 <img width="36" src="icons/egg.svg" title="egg.svg">
+<img width="36" src="icons/grapes.svg" title="grapes.svg">
 <img width="36" src="icons/kiwifruit.svg" title="kiwifruit.svg">
 <img width="36" src="icons/lemon.svg" title="lemon.svg">
 <img width="36" src="icons/mango.svg" title="mango.svg">
@@ -96,11 +99,14 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/candycane.svg" title="candycane.svg">
 <img width="36" src="icons/coffee.svg" title="coffee.svg">
 <img width="36" src="icons/coffee-takeaway.svg" title="coffee-takeaway.svg">
+<img width="36" src="icons/croissant.svg" title="croissant.svg">
 <img width="36" src="icons/cookie.svg" title="cookie.svg">
+<img width="36" src="icons/doughnut.svg" title="doughnut.svg">
 <img width="36" src="icons/fries.svg" title="fries.svg">
 <img width="36" src="icons/gingerbread-man.svg" title="gingerbread-man.svg">
 <img width="36" src="icons/gua-bao.svg" title="gua-bao.svg">
 <img width="36" src="icons/ice-cream.svg" title="ice-cream.svg">
+<img width="36" src="icons/ice-cream-bowl.svg" title="ice-cream-bowl.svg">
 <img width="36" src="icons/lollipop.svg" title="lollipop.svg">
 <img width="36" src="icons/lu-rou-fan.svg" title="lu-rou-fan.svg">
 <img width="36" src="icons/mooncake-slice.svg" title="mooncake-slice.svg">
@@ -109,6 +115,7 @@ To ease my workflow, all these icons were optimised with my tiny Python script [
 <img width="36" src="icons/noodles.svg" title="noodles.svg">
 <img width="36" src="icons/onigiri.svg" title="onigiri.svg">
 <img width="36" src="icons/pancakes.svg" title="pancakes.svg">
+<img width="36" src="icons/pretzel.svg" title="pretzel.svg">
 <img width="36" src="icons/pizza-slice.svg" title="pizza-slice.svg">
 <img width="36" src="icons/pizza-whole.svg" title="pizza-whole.svg">
 <img width="36" src="icons/rice.svg" title="rice.svg">
